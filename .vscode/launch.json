@@ -1,0 +1,172 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "▶ Queue — show post queue",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/nepalpulse/dev.py",
+      "args": ["queue"],
+      "cwd": "${workspaceFolder}/nepalpulse",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "▶ Format article (enter ID)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/nepalpulse/dev.py",
+      "args": ["format", "${input:articleId}"],
+      "cwd": "${workspaceFolder}/nepalpulse",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "▶ Render card PNG (enter ID)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/nepalpulse/dev.py",
+      "args": ["card", "${input:articleId}"],
+      "cwd": "${workspaceFolder}/nepalpulse",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "▶ Simulate post DRY RUN (enter ID)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/nepalpulse/dev.py",
+      "args": ["post", "${input:articleId}"],
+      "cwd": "${workspaceFolder}/nepalpulse",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "▶ Reel — render frames + MP4 (enter ID)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/nepalpulse/dev.py",
+      "args": ["reel", "${input:articleId}"],
+      "cwd": "${workspaceFolder}/nepalpulse",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "▶ Reel — render sample frames only",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/nepalpulse/reels/reel_maker.py",
+      "args": ["--sample"],
+      "cwd": "${workspaceFolder}/nepalpulse",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "▶ Scan — one RSS cycle",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/nepalpulse/dev.py",
+      "args": ["scan"],
+      "cwd": "${workspaceFolder}/nepalpulse",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "▶ Gov card — NRB forex",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/nepalpulse/dev.py",
+      "args": ["gov", "nrb"],
+      "cwd": "${workspaceFolder}/nepalpulse",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "▶ Gov card — Gold/Silver",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/nepalpulse/dev.py",
+      "args": ["gov", "gold"],
+      "cwd": "${workspaceFolder}/nepalpulse",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "▶ Gov card — Kalimati veg",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/nepalpulse/dev.py",
+      "args": ["gov", "kalimati"],
+      "cwd": "${workspaceFolder}/nepalpulse",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "▶ Gov card — NEPSE",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/nepalpulse/dev.py",
+      "args": ["gov", "nepse"],
+      "cwd": "${workspaceFolder}/nepalpulse",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "▶ Gov card — Fuel",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/nepalpulse/dev.py",
+      "args": ["gov", "fuel"],
+      "cwd": "${workspaceFolder}/nepalpulse",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "▶ Gov card — AQI",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/nepalpulse/dev.py",
+      "args": ["gov", "aqi"],
+      "cwd": "${workspaceFolder}/nepalpulse",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "▶ Gov card — Earthquake (sample)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/nepalpulse/dev.py",
+      "args": ["gov", "earthquake"],
+      "cwd": "${workspaceFolder}/nepalpulse",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "▶ Render ALL sample cards",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/nepalpulse/illustrator/civic_cards.py",
+      "cwd": "${workspaceFolder}/nepalpulse",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "▶ Run tests (all)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pytest",
+      "args": ["-v"],
+      "cwd": "${workspaceFolder}/nepalpulse",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    }
+  ],
+  "inputs": [
+    {
+      "id": "articleId",
+      "type": "promptString",
+      "description": "Article ID (number from DB — run 'queue' first to see IDs)",
+      "default": "1338"
+    }
+  ]
+}

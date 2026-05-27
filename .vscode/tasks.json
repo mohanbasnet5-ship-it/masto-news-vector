@@ -1,0 +1,102 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "NP: Queue",
+      "type": "shell",
+      "command": "python3 dev.py queue",
+      "options": { "cwd": "${workspaceFolder}/nepalpulse" },
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "group": "none"
+    },
+    {
+      "label": "NP: Format last article",
+      "type": "shell",
+      "command": "python3 dev.py format $(sqlite3 nepalpulse/nepalpulse.db \"SELECT MAX(id) FROM articles WHERE is_verified=1 AND is_posted_fb=0 AND is_posting_blocked=0\")",
+      "options": { "cwd": "${workspaceFolder}" },
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "group": "none"
+    },
+    {
+      "label": "NP: Scan once",
+      "type": "shell",
+      "command": "python3 dev.py scan",
+      "options": { "cwd": "${workspaceFolder}/nepalpulse" },
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "group": "none"
+    },
+    {
+      "label": "NP: Gov card — NRB",
+      "type": "shell",
+      "command": "python3 dev.py gov nrb",
+      "options": { "cwd": "${workspaceFolder}/nepalpulse" },
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "group": "none"
+    },
+    {
+      "label": "NP: Gov card — Gold",
+      "type": "shell",
+      "command": "python3 dev.py gov gold",
+      "options": { "cwd": "${workspaceFolder}/nepalpulse" },
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "group": "none"
+    },
+    {
+      "label": "NP: Gov card — Kalimati",
+      "type": "shell",
+      "command": "python3 dev.py gov kalimati",
+      "options": { "cwd": "${workspaceFolder}/nepalpulse" },
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "group": "none"
+    },
+    {
+      "label": "NP: Gov card — NEPSE",
+      "type": "shell",
+      "command": "python3 dev.py gov nepse",
+      "options": { "cwd": "${workspaceFolder}/nepalpulse" },
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "group": "none"
+    },
+    {
+      "label": "NP: Render ALL sample cards",
+      "type": "shell",
+      "command": "python3 -m illustrator.civic_cards",
+      "options": { "cwd": "${workspaceFolder}/nepalpulse" },
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "group": "none"
+    },
+    {
+      "label": "NP: Run tests",
+      "type": "shell",
+      "command": "python3 -m pytest -v",
+      "options": { "cwd": "${workspaceFolder}/nepalpulse" },
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "group": "test"
+    },
+    {
+      "label": "NP: Syntax check all",
+      "type": "shell",
+      "command": "python3 -m py_compile main.py config/settings.py database/db.py poster/poster.py formatter/formatter.py scanner/scanner.py scanner/gov_scanner.py validator/validator.py illustrator/meridian_card.py illustrator/civic_cards.py weekly/weekly.py alerter/alerter.py web/app.py dev.py && echo '✅ All files OK'",
+      "options": { "cwd": "${workspaceFolder}/nepalpulse" },
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "group": "build"
+    },
+    {
+      "label": "NP: Daemon — check running",
+      "type": "shell",
+      "command": "ps -A | grep 'main.py' | grep -v grep || echo 'DAEMON NOT RUNNING'",
+      "presentation": { "reveal": "always", "panel": "shared", "clear": false },
+      "group": "none"
+    },
+    {
+      "label": "NP: Tail live log",
+      "type": "shell",
+      "command": "tail -f nepalpulse/logs/nepalpulse_$(date +%Y%m%d).log",
+      "options": { "cwd": "${workspaceFolder}" },
+      "presentation": { "reveal": "always", "panel": "dedicated", "clear": true },
+      "isBackground": true,
+      "problemMatcher": [],
+      "group": "none"
+    }
+  ]
+}

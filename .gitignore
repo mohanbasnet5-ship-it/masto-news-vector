@@ -1,0 +1,32 @@
+# Logs
+nepalpulse/logs/
+*.log
+
+# Backups
+nepalpulse/backups/
+
+# Database (regenerable)
+nepalpulse/database/*.db
+nepalpulse/database/*.sqlite
+
+# Secrets
+.env
+config/secrets.json
+nepalpulse/config/*secret*
+nepalpulse/config/*token*
+nepalpulse/config/*key*
+
+# Generated media
+posts/
+reel_test/
+nepalpulse/samples/
+nepalpulse/reels/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
