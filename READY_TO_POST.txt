@@ -1,5 +1,5 @@
 READY TO POST — NepalPulse
-Updated: 2026-05-27 07:32 NPT
+Updated: 2026-05-27 14:01 NPT
 8 articles ready
 ════════════════════════════════════════════════════════════════
 
@@ -8,135 +8,110 @@ After posting, run: python3 nepalpulse/mark_posted.py <number>
 
 ════════════════════════════════════════════════════════════════
 
-── POST 1  |  Nepal Economy & Remittance (Google News)  |  May 26 21:40 NPT
+── POST 1  |  Nepal Tech & Fintech (Google News)  |  May 27 09:58 NPT
 
-EU Ambassadors Celebrate Balendra Shah's Historic Mandate, Pledge Support
+US Schools Restrict Classroom Screens Amid Health Concerns
 
-European Union ambassadors have publicly recognized Prime Minister Balendra Shah's unprecedented electoral victory, signaling strong diplomatic backing for his government. This historic mandate—Nepal's clearest democratic choice in years—comes as Shah prepares to lead the nation through critical reforms and development. For ordinary Nepalis, this means increased access to EU funding, technical expertise, and stronger ties that could mean more jobs, better infrastructure, and fairer trade terms in the years ahead.
+American schools are facing growing pressure to reduce screen time in classrooms as parents and educators cite negative impacts on student attention and mental health. The backlash reflects concerns that devices distract from learning and contribute to eye strain and sleep disruption. For Nepal's education sector, which increasingly adopts digital tools, the debate signals a cautionary lesson: technology in classrooms requires balance between innovation and student wellbeing.
 
-यूरोपीय संघका राजदूतहरूले प्रधानमन्त्री बलेन्द्र शाहको अभूतपूर्व निर्वाचन विजयलाई सार्वजनिकरूपमा स्वीकृति दिएका छन् र आफ्नो सरकारलाई मजबूत राजनयिक समर्थन प्रदान गर्ने संकेत दिएका छन्। नेपालको यो ऐतिहासिक जनादेश वर्षहरूमा आएको सबैभन्दा स्पष्ट लोकतान्त्रिक छनोट मानिन्छ र शाह अब राष्ट्रलाई महत्वपूर्ण सुधार तथा विकासका कार्यमा नेतृत्व दिन तयार छन्। साधारण नेपालीहरूका लागि यसको अर्थ EU बाट बढी आर्थिक सहायता, प्राविधिक दक्षता र शक्तिशाली सम्बन्ध हो जसले आउँदा वर्षहरूमा रोजगारी, सुधारिएको पूर्वाधार र न्यायसङ्गत व्यापार सर्तहरू दिन सक्छ।
+अमेरिकी स्कूलहरूले कक्षाकोठामा स्क्रिन समय घटाउन दबाबमा परेका छन् किनकि अभिभावक र शिक्षकले यो विद्यार्थीको ध्यान र मानसिक स्वास्थ्यमा नकारात्मक असर भएको गुनासो गरिरहेका छन्। डिभाइसले विद्यार्थीलाई पढाइबाट विचलित गर्ने र आँखामा तनाव तथा निद्रामा समस्या ल्याएको भन्ने चिन्ता यस आन्दोलनको मूल आधार छ। नेपालको शिक्षा क्षेत्रका लागि यो बहस एक महत्त्वपूर्ण सीख हो कि विद्यालयमा प्रविधि प्रयोग गर्दा नवीनता र विद्यार्थीको स्वास्थ्यबीचको सन्तुलन आवश्यक हुन्छ।
 
-यस घटनाले नेपालको राजनीतिमा के प्रभाव पार्छ जस्तो लाग्छ? 💬
-
-https://news.google.com/rss/articles/CBMivAFBVV95cUxNNWwtTmJfSzgwYTJVcVZMSlIyelpHTDZzaUtSZThNT202X2hTbm02aDlJc2dpY0RoN0V1MG5nQVpvaGlJbWw0bXpDY2JXM0lwdENaX3lLcGpXMWh3MWhtTVFmU2xxaDJtVEVmamVUVXZrdzRScnowNTZSX0p1RzMta2NPaWJBYlNiWTF3YmthdHoyZVhDOGhmOVRwVDlDcVJJMlRSOXFaNWJFMVh6NXEtanhCU1JHLXBDMzdQdQ?oc=5
-
-#NepalBreaking #NepalPulse 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 2  |  Nepal Economy & Remittance (Google News)  |  May 26 19:54 NPT
-
-प्रधानमन्त्री शाहले ठोस प्रगति गरेको दाबी गर्नुभयो
-
-प्रधानमन्त्री शाहले सरकारले नागरिकको जीवनमा वास्तविक र ठोस प्रगति गर्दैछ भनी दाबी गर्नुभयो, तर यो दाबीलाई पुष्टि गर्न कुनै विशिष्ट संख्या वा समय सीमा प्रस्तुत गर्नुभएन। शुभशासन र आर्थिक जवाफदेहिताबारेका अघिलोका प्रतिबद्धताहरू अधूरै रहेका छन्, र ऋण असुलीसँग लेखापरीक्षा पनि अलिकति पछिएको छ। आधारभूत ढाँचा, स्वास्थ्य सेवा र रोजगार परिणामहरूको माध्यमबाट नागरिकहरूले सरकारको प्रतिबद्धि र कार्यान्वयन मिलिरहेको छैन छैन भन्ने कुरा परीक्षण गर्नेछन्।
-
-—
-
-PM Shah Claims Focus on Tangible Progress Amid Governance Scrutiny
-
-Prime Minister Shah stated the government is delivering real, tangible progress in citizens' lives, but offered no specific metrics or timelines to back the claim. The assertion comes as past commitments on good governance and financial accountability remain unmet, with arrears recovery and audits still pending. Citizens watching infrastructure, healthcare access, and employment outcomes will be the true measure of whether rhetoric matches delivery.
-
-https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KNGM3Q21kV2dXUExERTVOTjlPdVJwSVJPb0ZiM3JSZ0E3TGZYMHpUNlVYbjV6UUhldTViQm5qdERES1NBQlBKV28tZDVVcDl5?oc=5
+https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iU1RGTTZzWGZncUdadEY3UVNwTFFUbmc3Q0hUeTFtbk1FaUwwMWdURGkzWW8wNHRZN1RXVzdxZExvdHNiTFYtekxIMVNtV2w5?oc=5
 
 #NepalBreaking #Nepal #नेपाल 🇳🇵
 
 ────────────────────────────────────────────────────────────────
 
-── POST 3  |  Nepal Tech & Fintech (Google News)  |  May 26 14:22 NPT
+── POST 2  |  Nepal Economy & Remittance (Google News)  |  May 27 09:13 NPT
 
-Nepal Tourism Board and UNDP launch five-year sustainable tourism plan
+Constitution Overhaul: Twelve Economic Reforms Nepal Needs Now
 
-Nepal Tourism Board and United Nations Development Programme are finalizing a strategic five-year plan to reshape Nepal's tourism sector around environmental and community protection. The framework targets sustainable growth across trekking routes, cultural sites, and hospitality zones where overtourism has strained local resources and ecosystems. For ordinary Nepalis, this means potential jobs in eco-tourism and cleaner mountain villages—but only if implementation matches ambition.
+Nepal's Constitution requires twelve major economic reforms to unlock growth and restore investor confidence after years of capital market instability. The proposals target structural weaknesses in financial regulation, property rights, and business transparency that have deterred both domestic and foreign investment. Small entrepreneurs, wage workers, and savers lose when capital markets fail — fewer jobs, stagnant wages, and eroded savings returns. This matters because without constitutional change, Nepal's economy will continue to lag regional peers, directly reducing job creation and pushing more young people toward migration.
 
-नेपाल पर्यटन बोर्ड र संयुक्त राष्ट्र विकास कार्यक्रमले पर्यटन क्षेत्रलाई पुनर्निर्माण गर्न पाँच वर्षीय कार्यनीतिगत योजना अन्तिम गरिरहेका छन्। यो ढाँचा ट्रेकिङ मार्ग, सांस्कृतिक स्थल र आतिथ्य क्षेत्रमा दिगो वृद्धि लक्ष्य गरेको छ जहाँ अत्यधिक पर्यटनले स्थानीय साधन र पारिस्थितिकतन्त्रलाई दबाइरहेको छ। साधारण नेपालीहरूका लागि यसको अर्थ ईको-पर्यटनमा रोजगारी र स्वच्छ पहाडी गाउँ हुन सक्छ—तर यो कार्यान्वयन लक्ष्य जति सफल हुन सक्छ भने मात्र।
+नेपालको संविधानमा १२ वटा ठूला आर्थिक सुधार गरेमा पूँजी बजारको अस्थिरताले गरेको क्षति रोक्न र विनियोजकको आस्था पुनः स्थापन गर्न सकिनेछ। वित्तीय नियमन, सम्पत्तिको अधिकार र व्यापारिक पारदर्शितामा भएको संरचनागत कमजोरीले घरेलु र विदेशी विनियोजकदलाई नेपाल आउनबाट रोकेको छ। पूँजी बजार विफल हुँदा साना उद्योगी, मजदुर र बचतकर्ता सबै हानिमा परेका हुन्छन्, किनभने यसले रोजगारी सिर्जना गर्न बाधा पुग्छ र तलब स्थिर रहन्छ। संविधानिक सुधार गरिएन भने नेपालको अर्थतन्त्र क्षेत्रीय साथीदेशको तुलनामा पिछडिँदै जानेछ, जसले रोजगारी सिर्जनमा सीधा असर गरेर बढी युवा विदेश जान बाध्य हुनेछन्।
 
-https://news.google.com/rss/articles/CBMisgFBVV95cUxNNXlPcW83N3N4dERsOVo2aUpHcUJobkFsejdvQ3NTQjJnNFV5dGFmSkJZaHdhNFc3OXNYamJKU3B4aUVGVHRwRVBRc2dFS0JFSTdoWHY0TTZmLWsxb2F4RVJ2NHNlMHlJZkJfOFdXWWVwbnpiMFdzLXdyZlVraHRhcEp6MjBNRGd5allZdGVfbG9BaDlFcUN1ajdrbHlRU0RTUFREVGhVbjBXQ1AwdnkzekZR0gFcQVVfeXFMTmdya0xlS3FFMEhrQlR5eHdYU0doc0dxTl9UVTNPbzFpVkl5bW8wbU8zQ0stSmRlNGFvMm1KRTJGSC1QYXROeF8wTnpObF9WVGtrdGdFWFRFTHdVRmk?oc=5
+https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjdHYk5qNTA1Vjl3NVNDdkFibUI3V1VMTnIwNEhaNmRKT091ZTRlM1ptUGwwUXItN3VnaUJTMVZLdUxlQmxma0FZSXg3enI4blhaWDQta1Zyb1o5V0JlcjN6UVloS2NxRFdzNFlTdGM3Q2pFZVdQN2Z6UmtXMm5oOE5lZVVKN0dfbkhsVUs1MXp2STBKZmNSYUhkcHkyVC1RdEpFaXQ0YXR2VmQzYmtTdW9FR3BRaVM4aDRv?oc=5
+
+@NRB.CentralBank
+#NepalEconomy #NepalNews #Nepal 🇳🇵
+
+────────────────────────────────────────────────────────────────
+
+── POST 3  |  Nepal Economy & Remittance (Google News)  |  May 27 08:09 NPT
+
+India Donates Ten Prisoner Transport Trucks to Nepal Police
+
+India handed over ten prisoner carrier trucks to Nepal's police force, expanding the country's capacity to transport detainees safely across districts. The donation directly supports Nepal's law enforcement agencies tasked with moving prisoners between courts, jails, and police stations in Kathmandu and beyond. This means reduced delays in court appearances and fewer security risks during prisoner transfers—a chronic problem that has strained Nepal's justice system for years. Watch whether these trucks actually reach rural districts or remain concentrated in the capital.
+
+भारतले नेपालको प्रहरी बललाई दश कैदी ढुवानी गाडी हस्तान्तरण गरेको छ। यी गाडी काठमाडौँ र अन्य जिल्लामा कैदीलाई अदालत, जेल र प्रहरी चौकीको बीच सुरक्षित रूपमा ढुवानी गर्न नेपालको क्षमता बढाउनेछ। यो कदमले अदालती सुनुवाइमा ढिलाइ कम गर्न र कैदी ढुवानीको समयमा सुरक्षा जोखिम घटाउन सहायक हुनेछ, जो नेपालको न्यायिक व्यवस्थालाई वर्षौँदेखि समस्याको सामना गरिरहेको छ।
+
+नेपालको वैदेशिक नीतिबारे तपाईंको के विचार छ? 💬
+
+https://news.google.com/rss/articles/CBMijwFBVV95cUxNV2lqY0hRTVhYRTkxbGFLaDNpUEYzdVdZdzR0d3djdFlybHd6aFotUmFILWg0TVp4SjZIMEt5amdPWEs5aldSVC1nUDJ4cldJbXp6OWpWem5wM05kQTE4NmkwZ2s1RHJNTUNUal8wMTl5bThPRGdLcEhteDVlMDQ4anlfR0JhS2lCanhRTFJjZw?oc=5
+
+#NepalBreaking #NepalPulse 🇳🇵
+
+────────────────────────────────────────────────────────────────
+
+── POST 5  |  The Kathmandu Post  |  May 27 13:59 NPT
+
+सुनकोसी-मारिन बाँधमा ११ प्रतिशत काम गरेर रमन-पटेल जेभी तीन वर्षका लागि ब्ल्याकलिस्ट
+
+सार्वजनिक खरिद अनुगमन कार्यालयले रमन-पटेल संयुक्त उद्यमलाई तीन वर्षका लागि ब्ल्याकलिस्ट गरेको छ। २०२३ जनवरीबाट चार वर्ष सात महिनेको अनुबन्धकालको साठी प्रतिशत अवधि बितिसकेपनि भारतीय ठेकेदारले मात्र ११ प्रतिशत काम गरेको हो। १४.०७ अर्ब रुपैयाँको अनुबन्धन नोभेम्बरमा समाप्त गरिएको छ र सरकारले ३.६० अर्ब रुपैयाँको बैंक ग्यारेन्टी जब्त गर्दैछ। यो नेपालका पूर्वाधार आयोजना अब ढिलो प्रगतिलाई सहन नगर्ने र आसन्न बाँध तथा जलविद्युत् आयोजनाका लागि कठोर मानक तोकिने संकेत दिएको छ।
+
+—
+
+Raman-Patel JV Blacklisted After Sunkoshi-Marin Dam Stalls at 11 Percent
+
+The Public Procurement Monitoring Office blacklisted Raman-Patel JV for three years after the Indian contractor completed only 11 percent of dam work despite 60 percent of the four-year-seven-month contract period elapsing since January 2023. The Rs14.07 billion contract was terminated in November after a 15-day notice, and the project is now confiscating Rs3.60 billion in bank guarantees. This signals that Nepal's infrastructure projects will no longer tolerate slow execution, even from established firms, setting a harder standard for future dam and hydro projects.
+
+https://kathmandupost.com/national/2026/05/27/contractor-blacklisted-for-delays-in-sunkoshi-marin-diversion-project
 
 @OPMCMNP
-#NepalGlobal #NepalPulse #Nepal 🇳🇵
+#NepalGlobal #NepalNews #Nepal 🇳🇵
 
 ────────────────────────────────────────────────────────────────
 
-── POST 4  |  Nepal Tech & Fintech (Google News)  |  May 26 13:45 NPT
+── POST 6  |  Gorkhapatra  |  May 27 13:40 NPT
 
-Nepal Tourism Board and UNDP Map Five-Year Sustainable Tourism Plan
+Nepali-Origin Student Wins First Prize in Global Robotics Competition
 
-Nepal Tourism Board and United Nations Development Programme are designing a five-year strategy to reshape how tourism operates across the country. The plan targets sustainable growth that balances visitor numbers with environmental protection and local community benefit. For ordinary Nepalis, this means potential new jobs in tourism sectors outside Kathmandu and clearer rules on how trekking routes, hotels, and cultural sites are managed.
+Angel Bhandari, a Nepal-origin student born in the United States, achieved historic success in the global robotics field. The accomplished roboticist represents a significant milestone for Nepal in international science and technology competitions.
 
-नेपाल पर्यटन बोर्ड र संयुक्त राष्ट्र विकास कार्यक्रमले पाँच वर्षको रणनीति तयार गर्दैछन् जसले देशभरको पर्यटन क्षेत्रलाई पुनर्गठन गर्नेछ। यो योजनाले आगन्तुकको सङ्ख्या र पर्यावरण संरक्षन दुवैलाई सन्तुलन राखेर टिकाऊ विकास लक्ष्य गरेको छ। साधारण नेपालीका लागि यसको अर्थ काठमाडौं बाहिरका क्षेत्रमा पर्यटन रोजगारी सृजना र ट्रेकिङ, होटेल तथा सांस्कृतिक स्थलका नियम स्पष्ट हुनु हो।
+अमेरिकामा जन्मेकी नेपाली मूलकी विद्यार्थी एन्जेल भन्डारीले विश्वव्यापी रोबोटिक्स प्रतियोगितामा पहिलो पुरस्कार जितेकी छन्। यो नेपालका लागि अन्तर्राष्ट्रिय विज्ञान र प्रविधि क्षेत्रमा एक ऐतिहासिक सिद्धि हो। यस उपलब्धिले नेपालको नाम विश्वमञ्चमा उज्ज्वल गरेको छ।
 
-https://news.google.com/rss/articles/CBMiWEFVX3lxTE96V0t4R0lNTjMwNjlZVUpWelJ6NGZheHlhb2ZYRExZUlhGX2IxRi1JLTBKU01mUF9YTzk4TDFXblJ3Q3hxSVdweEt5ZF9nZmdvdk1oQ1RoMkQ?oc=5
+यसबारे तपाईंको विचार Comment मा लेख्नुस् 👇
 
-#NepalBreaking #NepalNews #Nepal 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 5  |  Nepal Tech & Fintech (Google News)  |  May 26 12:21 NPT
-
-नेपाल पर्यटन बोर्ड र संयुक्त राष्ट्र विकास कार्यक्रमले पाँच वर्षीय योजना बनाउँदैछ
-
-नेपाल पर्यटन बोर्ड र UNDP ले पाँच वर्षको रणनीति तयार गर्दैछ जसले पर्यटन वृद्धिलाई वातावरण र समुदायको संरक्षणसँग जोड्नेछ। अनियन्त्रित पर्यटकको भीड़ले नेपालका ट्रेकिङ मार्ग र ऐतिहासिक स्थलहरूको क्षति पुर्‍यात्तेको र स्थानीय जलप्रणालीमा दबाब आएको कारण यो योजना आएको हो। यो योजनामा फोहोर व्यवस्थापन, स्थानीय रोजगारी र लोकप्रिय मार्गहरूमा आगन्तुकको सीमा निर्धारण गरिनेछ। महत्त्वपूर्ण कुरा यो छ कि योजनामा नियमहरू उल्लङ्घन गर्ने पर्यटन अपरेटरहरूलाई दण्ड दिने व्यवस्था छ कि छैन, किनकि अघिल्ला योजनाहरू दण्डको अभावमा आधिकारिक रूपमा लागू हुन सकेका छैनन्।
-
-—
-
-Nepal Tourism Board and UNDP Map Five-Year Sustainable Tourism Plan
-
-Nepal Tourism Board and United Nations Development Programme are drafting a five-year strategy to align tourism growth with environmental and community protection. This follows mounting pressure on Nepal's trekking routes and heritage sites from unmanaged visitor surges, which have degraded trails and strained local water systems. The plan will set concrete targets for waste management, local employment, and carrying capacity limits on popular routes. Watch whether the strategy includes enforcement teeth—without penalties for operators who ignore limits, plans have historically stalled.
-
-https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QRDA3b0xmRmNQYzRjWVh1VEJBTzN3bnV1LXVzTXd0aFZWSUhpcVUzcWtlYjBSRlR2UDFCZzVUZlk5TkdzM09qREtRQXFwNDN4?oc=5
-
-#NepalBreaking #NepalPulse 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 6  |  Nepal Economy & Remittance (Google News)  |  May 26 10:23 NPT
-
-Nepal Urged To Ban Foreign Drug Imports Already Made Here
-
-Domestic pharmaceutical manufacturers are pushing the government to stop importing medicines that Nepali companies already produce, arguing the policy drains foreign currency and kills local jobs. The demand targets drugs made by established factories in Nepal's pharmaceutical sector, which say they can meet domestic demand at competitive prices. For Kathmandu families, stricter import rules could mean cheaper medicine if local production scales up, but also risk higher prices if factories exploit a captive market without competition.
-
-नेपाली दवा निर्माण कम्पनीहरूले सरकारसँग देशमै बनेका औषधि आयात गर्न प्रतिबन्ध लगाउन माग गरेका छन्। निर्माताहरूले भनेका छन् कि विदेशी दवा आयातले विदेशी मुद्रा व्यय हुन्छ र स्थानीय रोजगारी नष्ट हुन्छ। नेपालको दवा क्षेत्रमा स्थापित कारखानाहरू प्रतिस्पर्धीमूलक मूल्यमा घरेलु माग पूरै गर्न सक्षम भएको निर्माताहरूको दाबी छ। आयात नियमन कडा भएमा काठमाडौँका परिवारहरूले सस्तो दवा पाउन सक्छन् तर स्थानीय कारखानाहरूले बजार एकाधिकार गरी मूल्य बढाउने जोखिम पनि छ।
-
-यस घटनाले नेपालको राजनीतिमा के प्रभाव पार्छ जस्तो लाग्छ? 💬
-
-https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeW9pQmtmREs2amUyUnpCVVJKMEtvWFRsSzMtV3p2UnRFakM0MGFRV200T2VEUjVYVU5SM1AwX3lSaGxiZFNKYm5wMm90UUd5b3BOekVwZU1KamJRRWtCdGhra0NTZXM1Z1RoREpVQVEyZU5TMW0xbjZzQllQTzQ0SF9oVkxZdlJOam5WTzVBLVBnZlNRcEVVRzlsX3hZYnVDaG1kZ0xBVjRvSHdzNVBSZ0h5UTQ0TEtuQ05ZSTBRRmRuMFU?oc=5
-
-#NepalBreaking #NepalPulse 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 7  |  Nepal Economy & Remittance (Google News)  |  May 26 09:24 NPT
-
-चिनियाँ पर्यटन सङ्गठनका लागि नेपालले चिनियाँ भाषा प्रशिक्षण सुरु गर्‍यो
-
-काठमाडौंले पर्यटन कर्मचारीलाई चिनियाँ भाषा प्रशिक्षण दिन सुरु गरेको छ। नेपाल र चीनको यो यात्रा सहमति चिनियाँ पर्यटकलाई बौद्ध धरोहर स्थलहरूमा आकर्षित गर्ने उद्देश्यले गरिएको हो। चिनियाँ यात्रु समूहले उच्च खर्च र धेरै दिनसम्मको प्रवास गर्ने भएकाले काठमाडौं उपत्यका र अन्यत्रका मठ तथा मन्दिरहरूको आय बढ्नेछ।
-
-—
-
-Nepal Trains Tourism Staff in Chinese as Beijing Travel Pact Deepens
-
-Kathmandu is launching Chinese language training for tourism workers as Nepal and China formalize a travel alliance designed to pull more visitors from China to Buddhist heritage sites. The move signals Nepal's pivot toward Chinese tourists after years of relying on Indian and Western visitors. Direct payoff: Chinese tour groups mean higher spending per visitor and longer stays at monasteries and temples across the Kathmandu Valley and beyond. Watch whether Chinese tour operators actually book packages or whether the infrastructure—guides, hotels, signage—can scale fast enough to handle a surge.
-
-https://news.google.com/rss/articles/CBMibkFVX3lxTE1UcTFpWnVKVlh0YzR0S1V1WFJMbVIzT29ScXF6R2VoRW44bUYyYlFyZ2xqT3V3QmVoQ2RjSlZjcTFEYTFrRjNzUFNIRTZtXzZxTnZib1pvdHQ1Ym44SzNNMnNEa1lpMm1vRDZ6QnVB?oc=5
+https://gorkhapatraonline.com/news/207749
 
 #NepalBreaking #NepalPulse #Nepal 🇳🇵
 
 ────────────────────────────────────────────────────────────────
 
-── POST 8  |  Nepal Economy & Remittance (Google News)  |  May 26 08:06 NPT
+── POST 7  |  Gorkhapatra  |  May 27 13:14 NPT
 
-ऊर्जा मन्त्रीले जलाशय बाँधलाई प्राथमिकता दिने संकेत गरे
+Nepal Sets China 126-Run Target in Asian Games Qualifier Women's Cricket
 
-ऊर्जा मन्त्री श्रेष्ठले जलविद्युत् विकासमा रणनीतिक परिवर्तन गरी जलाशय आधारित आयोजनालाई प्राथमिकता दिने संकेत गरेका छन्। जलाशय आयोजनले पानी जमा गर्न सक्ने, बाढ नियन्त्रण गर्न सक्ने र सुखा मौसुममा स्थिर विद्युत् उत्पादन गर्न सक्ने छ, जुन दौड नालिका आयोजनले पूरै गर्न सक्दैनन्। यसको अर्थ अग्रिम खर्च बढी हुनेछ तर भारतलाई विद्युत् निर्यात स्थिर हुनेछ र औद्योगिक लगानीकर्ताहरू चाहेको ग्रिड स्थिरताको आधार तयार हुनेछ। बहुपक्षीय बैंकहरूले ठूला जलाशय आयोजनलाई समर्थन गर्दै आएकाले यो नीति लगानी आकर्षण गर्न सक्ने अवस्था रहेको छ।
+Nepal batted first after winning the toss against China in the women's cricket match of the Asian Games qualifier in Malaysia, scoring 125 runs for five wickets in 20 overs. Puja Mahato scored 63 runs off 57 balls with six boundaries, while Ruby Poddar contributed 22 runs not out and Soni Pakhrin added 18 runs. China's Ma Kuiqi took two wickets, with Wang Waiying and Li Jiping each taking one.
 
-—
+मलेसियामा भइरहेको एशियन गेम्स क्वालिफायर महिला क्रिकेटमा नेपालले टस जिते र पहिले ब्याटिङ गरी २० ओभरमा पाँच विकेटको हानिमा १२५ रन बनाए। पुजा महातोले ५७ बलमा ६३ रन गरे र छवटा सीमानाहरू मारे, जबकि रुबी पोद्दारले नपराएको २२ र सोनी पाखरिनले १८ रन जोडे। चिनियाँ टोलीकी मा कुइकीले दुई विकेट लिइन्, जबकि वाङ वाइइङ र ली जिपिङले एक एक विकेट लिए। चिनियाँ टोली अब १२६ रनको लक्ष्य पूरै गर्न खेल्नेछ।
 
-Energy Minister Prioritizes Reservoir Dams Over Run-of-River Projects
-
-Minister Shrestha has signaled a strategic shift toward reservoir-based hydropower, moving away from Nepal's recent focus on smaller run-of-river schemes. Reservoir projects store water and provide flood control and dry-season power stability—advantages run-of-river plants cannot match. This means larger upfront costs but steadier electricity exports to India and domestic grid reliability that manufacturing investors demand. Watch whether this unlocks funding from multilateral banks that favor big reservoirs.
-
-https://news.google.com/rss/articles/CBMiUEFVX3lxTE8teU5XWDNuR0RYckRPWjhodmNBR2g5NHI2QUM2WktBaW9Ba0NVWjZXTE5QbHBNNi1zcHQ4cnFINjE1WG9KTnY4VU9kLWJaMmhE?oc=5
+https://gorkhapatraonline.com/news/207747
 
 #NepalBreaking #Nepal 🇳🇵
+
+────────────────────────────────────────────────────────────────
+
+── POST 8  |  Gorkhapatra  |  May 27 13:08 NPT
+
+Parliament Members Urge Government to Ensure Fertilizer Availability This Year
+
+Members of Parliament's Agriculture Committee have pressed the government to timely arrange fertilizer supplies to prevent shortages affecting farmers this year. The committee emphasized that Nepal must reduce dependency on imports and develop domestic organic fertilizer production as a long-term solution. Officials were directed to complete fertilizer procurement procedures by mid-June to ensure adequate supply for the growing season.
+
+संसदको कृषि समितिले किसानको फसल उत्पादनमा बाधा नपुगोस् भन्दै सरकारलाई समयमै खाद आपूर्ति गर्न दबाब दिएको छ। समितिले नेपाललाई खादको आयातमा निर्भरता घटाई घरेलु जैविक खाद उत्पादन विकास गर्न जोर दिएको छ। सरकारी अधिकृतलाई जेठ मसान्तसम्म खाद खरिद कार्यविधि पूरै गरी वर्षायामको अवधिमा पर्याप्त आपूर्ति सुनिश्चित गर्न निर्देशन दिइएको छ।
+
+https://gorkhapatraonline.com/news/207746
+
+#NepalBreaking #NepalPulse #Nepal 🇳🇵
 
 ────────────────────────────────────────────────────────────────
