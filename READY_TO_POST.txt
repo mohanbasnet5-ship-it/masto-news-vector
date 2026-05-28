@@ -1,5 +1,5 @@
 READY TO POST — NepalPulse
-Updated: 2026-05-28 06:01 NPT
+Updated: 2026-05-28 17:21 NPT
 8 articles ready
 ════════════════════════════════════════════════════════════════
 
@@ -8,92 +8,128 @@ After posting, run: python3 nepalpulse/mark_posted.py <number>
 
 ════════════════════════════════════════════════════════════════
 
-── POST 1  |  Nepal Tech & Fintech (Google News)  |  May 27 21:09 NPT
+── POST 1  |  Nepal Economy & Remittance (Google News)  |  May 28 16:28 NPT
 
-Information Ministry Claims 100-Point Reforms But Offers Few Public Details
+विदेशी लगानीमा नेपालको निर्भरता बढ्दै, घरेलु लाभांश घट्यो
 
-Nepal's Information Ministry announced it has completed remarkable achievements under its 100-point reform agenda, but provided limited specifics about what citizens will actually see or benefit from. The ministry said reforms span media regulation, digital infrastructure, and public communication, but did not name concrete deadlines or measurable outcomes for ordinary Kathmandu residents. Watch for official details in coming weeks—transparency matters when government claims progress on public services.
-
-नेपालको सूचना मन्त्रालयले आफ्नो १०० बुँदे सुधार कार्यक्रमअन्तर्गत उल्लेखनीय उपलब्धि हासिल गरेको घोषणा गर्‍यो तर नागरिकले वास्तवमा के लाभ पाउनेछन् यस बारेमा विस्तृत जानकारी दिएन। मन्त्रालयले मिडिया नियमन, डिजिटल पूर्वाधार र सार्वजनिक संचारमा सुधार गरिएको बताएको छ, तर काठमाडौंका आम नागरिकका लागि ठोस समयसीमा वा मापनयोग्य नतिजा निर्दिष्ट गरेन। आगामी हप्तामा आधिकारिक विवरण सार्वजनिक हुनसक्छ—सरकार जब सार्वजनिक सेवामा प्रगति गरेको दावी गर्छ, पारदर्शिता अत्यन्त आवश्यक छ।
-
-यस घटनाले नेपालको राजनीतिमा के प्रभाव पार्छ जस्तो लाग्छ? 💬
-
-https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3RmI0bVlaTEsxOGdCV0pWbS1fZjZiZ3RsdjZrOHpPMDBEem16bWh2VnN4NWlvcnd0WjFXWUsxZ05neExRS09qcGlQcVpsd0du?oc=5
-
-#NepalBreaking #NepalPulse #Nepal 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 3  |  Nepal Tech & Fintech (Google News)  |  May 27 18:28 NPT
-
-Nepal, Switzerland Commit to Closer Economic Ties at Fifth Bilateral Meeting
-
-Nepal and Switzerland held their fifth bilateral consultation, signaling a push for deepened economic and development cooperation between the two nations. The talks focused on expanding partnership in areas of mutual interest, though specifics of new commitments remain under discussion. For Nepal, closer Swiss ties could unlock technical expertise and investment in sectors like hydropower, tourism, and financial services—areas where Switzerland holds proven capability.
-
-नेपाल र स्विट्जरल्याण्डले पाँचौ द्विपक्षीय परामर्श गरी आर्थिक र विकास सहयोगलाई गहिराउन प्रतिबद्ध भएका छन्। दुवै देशले जलविद्युत, पर्यटन र आर्थिक सेवा क्षेत्रमा साझेदारीलाई विस्तार गर्ने योजना गरेका छन्। स्विट्जरल्याण्डको प्राविधिक दक्षता र लगानीले नेपालको विकास लक्ष्य पूरै गर्न सहयोग पुग्नेछ।
-
-https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYXdYbC1PVDZTV0gtSEw5c01CeUU3Y1dCenBYOW5CaUpUdGlzQnk0am12SWx5aWJiZXcydGphM0Q2LW5MYnVlSnhTcW5PMzdiYkQ2THI5aFd1QkhUTXZxSm82dUR5NWpJU3FmWmhxbVEyUUU0TEdoengzQ0J4b01ZV3BSQjlaaUJXMjVLLTB0NVl2MmxQTjA3NW9PYUZPWTFkVEF4N0dmcXNFeFlncUR3TFotdXNyY09QVVYwQ3NfLUpzOHdNTVhhZFVDREJtWG5zUnJXbFAtVWt0MnpmYUtKSWlVcEI?oc=5
-
-#NepalBreaking #NepalPulse #Nepal 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 4  |  Nepal Tech & Fintech (Google News)  |  May 27 16:03 NPT
-
-नेपालको पर्यटन क्षेत्रमा कृत्रिम बुद्धिमत्ताको आगमन
-
-कृत्रिम बुद्धिमत्तामा आधारित एप्लिकेसनले नेपालको ट्रेकिङ मार्गको पर्यटन व्यवसाय नियन्त्रण गर्न थालेका छन्। यी एल्गोरिदमले कुन मार्ग लोकप्रिय हुनेछ, कुन आवास असफल हुनेछ र कुन ऋतुमा भिड बढ्नेछ भन्ने भविष्यवाणी गर्न सक्छन्। यस परिवर्तनको कारण पर्यटकहरूका लागि राम्रो मूल्य निर्धारण हुनेछ तर स्थानीय गाइड र साना आवास सञ्चालकहरू डिजिटल प्रविधि र पूँजी अभावमा पिडित हुनसक्छन्।
+सरकारी मन्त्री खनालले अन्तर्राष्ट्रिय सम्बन्धमा जोर दिएर लगानी आकर्षण गर्ने घोषणा गर्‍यो। राज्य स्वामित्वका संस्थाहरूले खजानामा ७.५५ खर्ब रुपैयाँको अतिरिक्त पुँजी आवश्यक छ भनी सरकारले स्वीकार गरेको छ। तर सरकारले आठ खर्ब रुपैयाँ लगानी गरेका घरेलु उद्यमहरू अब कम लाभांश दिइरहेका छन्। यसको अर्थ नेपालले आफ्ना मौजुदा सरकारी सम्पत्तिबाट बजेट समस्या समाधान गर्न सक्दैन भन्ने कुरा खुलेको छ। भारत, चिनिया र बहुपक्षीय ऋणदाताहरूसँगको नयाँ द्विपक्षीय सम्झौता वर्षको अन्तसम्म प्रतिबद्ध लगानीमा परिणत हुनेछ कि नहुनेछ यो हेर्नुपर्ने कुरा रहेको छ।
 
 —
 
-AI Startups Target Nepal's Trekking Routes as Tech Giants Wake Up
+Nepal Pins Growth on Foreign Investment as Domestic Dividends Shrink
 
-Nepal's tourism industry faces a quiet disruption: algorithms now predict which trails sell, which lodges fail, and which seasons draw crowds, shifting power from local guides to data platforms. This mirrors how digital platforms reshaped taxi and hotel markets globally, except here it touches Everest permits and village homestays directly. The shift means better pricing for tourists but risks squeezing small operators who lack tech access or capital to compete with AI-powered booking sites.
+Government minister Khanal announced a pivot toward international relations to attract investment, as state-owned enterprises deliver fewer dividends to the treasury. Nepal needs Rs 755 billion in additional capital to meet development targets, yet domestic public enterprises approaching Rs 800 billion in government investment are returning less cash. The shift signals acknowledgment that Nepal cannot grow its way out of budget constraints through existing state assets alone. Watch whether new bilateral deals with India, China, or multilateral lenders materialize into committed capital by year-end.
 
-https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaThxVjJRUUxZYVQ2ekgwZzZfaHMyX0V6OUdHVkNETkIzTmUxOTR3VENIdUNWSWZCWGNkWWI5bXVjTlYxc3UyMW8yM3JfRUNFVkFaNGhiT3ZOMFA3bE9IR2paTFJGREZHdjdHWENtSUM3MTlwWjdNTWpTQ2VDLUdlRHdMeXRmaWF5NTJZY3d2QlU0ZW8zYmw4ZEJ4N2x3MXFRaXdzLUo5eHI?oc=5
+https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QOXR5SmFsekxCVFBsS20yc0JveHNaTGNaYUdXdWpvc2lzQ2I3dkdvWmFGR1hwWFFJUS04TFFiWFZWYk52MGo0RF9kNUJCZks1?oc=5
 
-@OPMCMNP
-#NepalGlobal #Nepal 🇳🇵
+#NepalBreaking #Nepal #नेपाल 🇳🇵
 
 ────────────────────────────────────────────────────────────────
 
-── POST 5  |  Nepal Tech & Fintech (Google News)  |  May 27 15:13 NPT
+── POST 2  |  Nepal Tech & Fintech (Google News)  |  May 28 16:18 NPT
 
-Nepal Hits Historic Foreign Exchange High, Economy Set to Grow 3.85%
+Nepal Hosts Major Global Tourism Trade Show in Early June
 
-Nepal's foreign exchange reserves have reached an all-time peak, signaling strengthening economic stability as the nation navigates global uncertainty. The central bank projects gross domestic product growth of 3.85 percent, driven by rising remittance inflows and improved domestic investment climate. For ordinary Nepalis, stronger reserves mean better currency stability, lower import costs, and greater confidence in Nepal's ability to weather external shocks—a milestone the country has earned through sustained fiscal discipline.
+Nepal is joining the United States, Japan, Spain, Greece and other nations in hosting significant meetings and events during the first week of June that will draw tourism, airline, cruise, technology and association leaders. The trade shows are designed to supercharge the meetings and events industry globally. Kathmandu's tourism sector stands to gain direct exposure to international decision-makers who influence travel patterns and investment.
 
-नेपालको विदेशी मुद्रा भण्डार सर्वकालिक उच्चतममा पुगेको छ र केन्द्रीय बैंकले सकल घरेलु उत्पादन वृद्धि ३.८५ प्रतिशत हुनेछ भनी अनुमान गरेको छ। विप्रेषण र आन्तरिक लगानीको वृद्धिले यो बढोत्तरीलाई संचालित गरिरहेको छ। साधारण नेपालीलाई यसको अर्थ मुद्रा स्थिर रहने, आयातको मूल्य घट्ने र विदेशी आघातको सामना गर्न राष्ट्र सक्षम हुने कुरा हो।
+नेपालले अमेरिका, जापान, स्पेन, ग्रीस र अन्य देशसँग जुनको पहिलो हप्तामा पर्यटन, एयरलाइन, क्रुज, प्रविधि र संस्था नेताहरूलाई आकर्षण गर्ने ठूलो बैठक र अनुष्ठान आयोजना गर्दैछ। यो व्यापार प्रदर्शनी विश्वव्यापी बैठक र अनुष्ठान उद्योगलाई शक्तिशाली गर्न डिजाइन गरिएको छ। काठमाडौंको पर्यटन क्षेत्रले यातायात प्रवाह र लगानीलाई प्रभाव पार्ने अन्तर्राष्ट्रिय निर्णय ग्राहकहरूलाई सीधा सम्पर्क गर्ने सुयोग पाउनेछ।
 
-https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3d5NW5hVE4zNXFSbHM5akc1X2FRS0d6bG42Qy1mSHZ4OGw2SzA0aDJ5OW5lZGlDV1hZZXdYWllraVV2LVBiWVFTZVc0VFk4Y0J5eng5MzBfM1V0MjF1S2Nudm1KMUhYbTQwblpJR0FrNVp0X3d2N1otMkV6NjJZTC1YbUtNMHhhcTJHZHFFelN3dERiOXIycF9TVXZXSHlIWUplcEtvZGprTmo0dTJvN0dKSG9UMDMwUDZyS29lYnl0UzFJ?oc=5
+यसबारे तपाईंको विचार Comment मा लेख्नुस् 👇
+
+https://news.google.com/rss/articles/CBMibkFVX3lxTE5XSVdDb01WYVBnZ0VyOEhDeXIxaWhCOS1KWjlCVV9sX2xOczdTTTNWRHYzYldySWtzMmRkWG5MbzNqZ2N1TVVRU0NkSnhtWGdIdTVwYkU0R3lGS2xhNnlKTWd2UjBNbDhzY0RGUFpB?oc=5
+
+#NepalBreaking #NepalPulse #Nepal 🇳🇵
+
+────────────────────────────────────────────────────────────────
+
+── POST 3  |  Nepal Economy & Remittance (Google News)  |  May 28 16:03 NPT
+
+Nepal's Foreign Minister Ties Development Push to Stronger International Ties
+
+Nepal's government is banking on deeper international relationships to unlock investment and accelerate development projects across the country. The Foreign Minister framed bilateral and multilateral partnerships as essential to attracting foreign capital and expertise for infrastructure work. For Kathmandu residents, this signals the government's strategy to fund roads, transit systems, and power projects through foreign deals rather than domestic resources alone.
+
+नेपालको सरकारले विदेशी लगानी आकर्षण गरेर देशभरका विकास कार्यक्रम द्रुत गर्ने रणनीति अबलम्बन गरेको छ। विदेशमन्त्रीले द्विपक्षीय र बहुपक्षीय साझेदारीलाई आधारभूत संरचना निर्माणका लागि आवश्यक भएको बताइएका छन्। काठमाडौंका बासिन्दाहरूका लागि यो सरकारको सडक, सार्वजनिक यातायात र विद्युत् आपूर्ति परियोजना विदेशी करारमार्फत कार्यान्वयन गर्ने रणनीति सङ्केत गर्छ।
+
+यस घटनाले नेपालको राजनीतिमा के प्रभाव पार्छ जस्तो लाग्छ? 💬
+
+https://news.google.com/rss/articles/CBMizwFBVV95cUxPV0hVMWxxeFJYd1hiUEx1RjVpWTIzWHp0cUw0VUVKZVhqZ1hPMjlUMVVydFltT3FoaUhvMFBWOGxXX09zaDdZRjNDRzZTNTYxUXVCbkJ4SHlTWDZjX1ZhVzJ1Y2QtSkN2NVgtQmRQbEtLa19POVF2dVZFcm82M0hoU3BZeVlMd0l3b29taG56ZFhUdktHUThmdEdBYzFuaXpCTTJ6eTlVaGtweG44QXFJbW1adUR1eWVOMFNZSHRoMHNCam1kVHpSZFc4Y1FRMjA?oc=5
+
+#NepalBreaking #NepalNews #Nepal 🇳🇵
+
+────────────────────────────────────────────────────────────────
+
+── POST 4  |  Nepal Economy & Remittance (Google News)  |  May 28 15:15 NPT
+
+दीपक भट्टको अनुसन्धानमा प्रहरीले ५६ लगानीकर्ताको शेयर फ्रिज गर्यो
+
+नेपाल प्रहरीले दीपक भट्ट बारेमा अनुसन्धान सुरु गर्दै ५६ लगानीकर्ताको शेयर फ्रिज गरेको छ। यो कदमले लगानीकर्ताहरूलाई आफ्नो होल्डिङ बेच्न वा हस्तान्तरण गर्न रोकेको छ। यसको अर्थ ५६ परिवार आफ्नो लगानीमा आर्थिक संकट आएको छ र स्कूल फीस, औषधी खर्च वा व्यापारिक जिम्मेवारी निर्वाह गर्न नसक्ने अवस्थामा परेका छन्।
+
+—
+
+Police Freeze 56 Investors' Shares in Deepak Bhatt Probe
+
+Nepal Police has launched an investigation into Deepak Bhatt and frozen the shares of 56 investors connected to him, blocking their ability to sell or transfer holdings. The action mirrors previous asset seizures in high-profile fraud cases, signaling police are treating this as a financial crime requiring immediate restraint of evidence. Affected investors cannot access liquidity from their frozen portfolios, and any pending trades remain suspended pending the investigation's outcome. This matters because 56 families who invested money expecting returns now cannot liquidate those assets to pay school fees, medical bills, or business expenses.
+
+https://news.google.com/rss/articles/CBMiggFBVV95cUxQdWFFVGk2NzhKTzdVMllrYllBV2dsd085azRSbWEzRjVWN3JGcnh2clptRUs2US1ROFBBWEJvcnhKSFdDdXFxd3Rfek1Ca3dqSkxuSzJVdnB5enJ3WHJDc0NhZkNOSjh2bEd5Vk5QclVyM2MxdzF5aHdMQ0diOUFHeEhn?oc=5
+
+@OPMCMNP
+#NepalPolitics #NepalPulse 🇳🇵
+
+────────────────────────────────────────────────────────────────
+
+── POST 5  |  Nepal Tech & Fintech (Google News)  |  May 28 14:33 NPT
+
+Nepal and Switzerland Deepen Ties in Fifth Kathmandu Consultation
+
+Nepal and Switzerland held their fifth bilateral consultation meeting in Kathmandu, marking a continuation of diplomatic engagement between the two nations. The meeting focused on strengthening cooperation across trade, development, and people-to-people exchange. For Kathmandu residents, closer Switzerland ties could mean more investment in tourism, education partnerships, and remittance stability from Swiss employers.
+
+नेपाल र स्विट्जरल्यान्डले काठमाडौंमा पाँचौँ द्विपक्षीय परामर्श बैठक आयोजन गरे। यो बैठकले व्यापार, विकास र जनसम्पर्क क्षेत्रमा दुवै देशबीचको सहयोग गहिराउने कुरामा केन्द्रित थियो। काठमाडौंका बासिन्दालाई स्विट्जरल्यान्डसँगको मजबुत सम्बन्धबाट पर्यटन, शिक्षा साझेदारी र स्विस नियोगकर्ताहरूबाट विप्रेषणको स्थिरता बढ्नसक्छ।
+
+यस आर्थिक खबरले तपाईंको दैनिक जीवनमा कस्तो असर पार्छ? 💬
+
+https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VaDZKaVd0VlFWR08zMGljQ0kyUFVmd21saGVHZzJ1SzQ5S2hZYnpVYnZQVFpnV3lCZlJJbVZEOXZkR3pUWUM2dEpqdFJyMGlMS0hYV05Pa0U?oc=5
 
 #NepalBreaking #Nepal 🇳🇵
 
 ────────────────────────────────────────────────────────────────
 
-── POST 6  |  Nepal Tech & Fintech (Google News)  |  May 27 14:29 NPT
+── POST 6  |  Nepal Tech & Fintech (Google News)  |  May 28 13:09 NPT
 
-Nepal Launches MoFA Mitra App for Citizens Living Abroad
+Pathao Nepal Launches Helicopter Booking Service Called Pathao Heli
 
-Nepal's Ministry of Foreign Affairs has launched the MoFA Mitra app to provide digital assistance to Nepali citizens working or living overseas. The app offers real-time support for passport services, visa issues, and emergency consular help without requiring citizens to visit embassies in person. For millions of Nepalis abroad—nearly 4 million work outside Nepal—the app cuts bureaucratic delays and reduces travel costs to nearest diplomatic offices.
+Pathao Nepal, the ride-hailing company, has launched Pathao Heli, a helicopter booking service for urban users. The move expands Pathao's transport offerings beyond cars and motorcycles into premium air travel. Urban Kathmandu residents and business travelers now have helicopter transport as an on-demand option.
 
-परराष्ट्र मन्त्रालयले विदेशमा रहेका नेपालीलाई डिजिटल सेवा दिने गरी 'मोफा मित्र' एप सार्वजनिक गरेको छ। यो एपको माध्यमबाट नागरिकले पासपोर्ट, भिसा र आपतकालीन सेवाका लागि दूतावास जाने आवश्यकता नपरी रिअल टाइमे सहायता पान सक्नेछन्। विदेशमा रहेका करीब चालीस लाख नेपालीका लागि यो एप नोकरशाही प्रक्रिया छिटो गर्न र दूतावास जानको यात्रा खर्च घटाउन मद्दत गर्नेछ।
+राइड-हेलिङ कम्पनी पाथाओ नेपालले शहरी यात्रुहरूका लागि हेलिकप्टर बुकिङ सेवा 'पाथाओ हेली' सुरु गर्‍यो। यसले पाथाओको परिवहन सेवा कार र मोटरसाइकलदेखि प्रिमियम हवाई यात्रामा विस्तार गरेको छ। काठमाडौँका शहरी यात्री र व्यवसायी गरी अब माग अनुसार हेलिकप्टर सेवा लिन सक्दछन्।
 
-https://news.google.com/rss/articles/CBMiowFBVV95cUxOR0U1dTV1Y0dfazRCWURyNFZ2ajhjVGhyWWgwUVNBM1ZMcnY3SjBkeGxMZzN5dFpWdUd2Mk1mTmk2YWtKdkdrS3FqRjh2cVpXUUNhRG03OHRESW9HYTR2RXYtdEctNTlrakdpS19TeTRPMUhCZHk4US1EaC01TkozN3RaaVFHbHNQTVhOcFRrcDZEZzZLRVlUNTh4cTVqRTFsYjJN0gGoAUFVX3lxTE9XNE1zVnY0dUwwSElRTHY3V2EyRUxXZFNqZkJIUEZmWWRYRHBLUTJBZG9QMzdvSEhlOUV4cGhKSnNDLWNLdlN4ZkdFcE82cG10S3VLZ1hfY1VOX2VKVnpGemVsck9hRTNyVkE1aHJQMmhEY1JlNEpiUGI5UHZtZzVNTTZWNlFFZHpDNWk3S3ZPVGs4MHJZTjRSTFp2VDd2N0N2bnZmeGk5TA?oc=5
+https://news.google.com/rss/articles/CBMingFBVV95cUxOZUZSY1d1ODllOG1oZmRaZW1vR0J0SzJKdjYtVHJDYWRCNjlVQ1JCOXpnZEwxSEdyWC1fVW02c1dfWVJwRTlNMnkybGtyb2w2al80aUZWeTdxckpac0pnYkR4dk11TDFUdWQtOUVzM0tHT1QzcFlveV9LOEo2YTI2dmlYZmlsa2ZJdjhQOF9QalprdERuOGh1NnJ6QVZiZw?oc=5
 
-#NepalBreaking #NepalPulse #Nepal 🇳🇵
+#NepalBreaking #NepalNews #Nepal 🇳🇵
 
 ────────────────────────────────────────────────────────────────
 
-── POST 7  |  Nepal Tech & Fintech (Google News)  |  May 27 09:58 NPT
+── POST 7  |  Nepal Tech & Fintech (Google News)  |  May 28 12:17 NPT
 
-US Schools Pull Screens From Classrooms Amid Health Concerns
+UNESCO Backs Nepal's Push to Make Internet Truly Multilingual
 
-American schools are removing digital devices from classrooms after mounting evidence that excessive screen time harms student focus and mental health. Districts report teachers struggle to keep students engaged when laptops and tablets dominate instruction. The shift signals a broader reckoning: even tech-forward education systems now question whether screens belong in every lesson.
+UNESCO has thrown its weight behind Nepal's effort to build an internet where Nepali, Maithili, Bhojpuri, and other local languages thrive alongside English. The recognition signals that Nepal's digital future doesn't have to be English-only—a watershed moment for the millions who speak Nepal's dozens of languages. Making this real means investment in Nepali keyboard software, translation tools, and content creation in regional languages. For ordinary Nepalis, it means your mother tongue online becomes not a luxury but a natural choice.
 
-अमेरिकाका विद्यालयले डिजिटल उपकरण कक्षाबाट हटाउन थालेका छन् किनकि अत्यधिक स्क्रिन समय विद्यार्थीको ध्यान र मानसिक स्वास्थ्य हानी गरेको प्रमाण बढिरहेको छ। जिल्लाहरूले रिपोर्ट गरेका छन् कि ल्यापटप र ट्याबलेट निर्देशन प्रभुत हुँदा शिक्षकले विद्यार्थीलाई सक्रिय राख्न संघर्ष गर्नु परेको छ। यो परिवर्तनले एक ठूलो विचार दिमलामा पुर्यायो—प्रविधि-सँग अनुकूल शिक्षा प्रणाली पनि अब प्रत्येक पाठमा स्क्रिन आवश्यक छ कि छैन भन्ने प्रश्न गर्दैछ।
+युनेस्कोले नेपाली, मैथिली, भोजपुरी र अन्य स्थानीय भाषालाई इन्टरनेटमा विकसित गर्ने नेपालको प्रयासलाई समर्थन गरेको छ। यसको अर्थ नेपालको अनलाइन भविष्य अंग्रेजी मात्रमा सीमित हुनु आवश्यक छैन र लाखौँ नेपालीले आफ्नो मातृभाषा प्रयोग गर्न सक्नेछन्। यो वास्तवमा सफल हुन नेपाली किबोर्ड सफ्टवेयर, अनुवाद उपकरण र क्षेत्रीय भाषाहरूमा सामग्री सृष्टिमा लगानी आवश्यक छ।
 
-https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iU1RGTTZzWGZncUdadEY3UVNwTFFUbmc3Q0hUeTFtbk1FaUwwMWdURGkzWW8wNHRZN1RXVzdxZExvdHNiTFYtekxIMVNtV2w5?oc=5
+https://news.google.com/rss/articles/CBMijwFBVV95cUxOa0did0E4cGlvUlpBR1Y4Q3U4U0NneVROVGFIbXJmQ2RBcmVselV3RmYyUERDV0JTdjMzekdUeXZYeGthejFZRVN4MlZkMEk5NXFveURsREFfUmlWbUhwWjAtREN4MWE1RGZFS2MxWUh0azN5THI0d2dxdER3aVIzdkpCLXBET0RJMEZZTTU5RQ?oc=5
+
+#NepalBreaking #Nepal 🇳🇵
+
+────────────────────────────────────────────────────────────────
+
+── POST 8  |  Nepal Economy & Remittance (Google News)  |  May 28 12:16 NPT
+
+Government pumps 13 percent more into state firms but gets less back
+
+The government increased investment in public enterprises by 13 percent this fiscal year, yet dividend returns from these companies fell sharply. State-owned firms are absorbing more taxpayer money while generating weaker financial returns, a signal of declining operational efficiency across Nepal's public sector. For ordinary Nepalis, this means fewer rupees flowing back to fund schools, hospitals, and roads.
+
+सरकारले यो आर्थिक वर्षमा सार्वजनिक उद्यमहरूमा १३ प्रतिशत अधिक लगानी गर्‍यो, तर यी कम्पनीबाटको लाभांश आय तीव्रगतिले घटेको छ। राजकीय फर्महरूले करदाताको अरबौँ रुपैयाँ खपत गर्दैछन् तर आर्थिक रिटर्न कमजोर छ। यसको मतलब स्वास्थ्य, शिक्षा र सडक निर्माणमा दिनसक्ने सरकारी रकम अब धेरै खुल्ला आकाशमा हराइरहेको छ।
+
+https://news.google.com/rss/articles/CBMiywFBVV95cUxOeGszV2hPU0ZTVmF4ekRpTHNURF96WTE3WnNTMlhyX1EwTlJ1eFdxOWdDRWo5aTZ0OGVJTGVGWGFTQ21TQXdpY2kwVGR4R1BSYjFtZEdEQWdvd2VOSzJYZUh4YVdmczc4bXpjanNFejlYMjFUczdqWWNRSmNwUGtOWXotdE44ODZwOHk5cU5hQmJiYTBmWXBiTDNCQy14SjkwV254SUZBZnBTLUFfVlk5Wl9Ud0V5ajBoUzA0WVEzcmJoZDZ4dnhZNEdmNA?oc=5
 
 #NepalBreaking #Nepal #नेपाल 🇳🇵
 
