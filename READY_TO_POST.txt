@@ -1,5 +1,5 @@
 READY TO POST — NepalPulse
-Updated: 2026-05-27 14:01 NPT
+Updated: 2026-05-28 06:01 NPT
 8 articles ready
 ════════════════════════════════════════════════════════════════
 
@@ -8,110 +8,93 @@ After posting, run: python3 nepalpulse/mark_posted.py <number>
 
 ════════════════════════════════════════════════════════════════
 
-── POST 1  |  Nepal Tech & Fintech (Google News)  |  May 27 09:58 NPT
+── POST 1  |  Nepal Tech & Fintech (Google News)  |  May 27 21:09 NPT
 
-US Schools Restrict Classroom Screens Amid Health Concerns
+Information Ministry Claims 100-Point Reforms But Offers Few Public Details
 
-American schools are facing growing pressure to reduce screen time in classrooms as parents and educators cite negative impacts on student attention and mental health. The backlash reflects concerns that devices distract from learning and contribute to eye strain and sleep disruption. For Nepal's education sector, which increasingly adopts digital tools, the debate signals a cautionary lesson: technology in classrooms requires balance between innovation and student wellbeing.
+Nepal's Information Ministry announced it has completed remarkable achievements under its 100-point reform agenda, but provided limited specifics about what citizens will actually see or benefit from. The ministry said reforms span media regulation, digital infrastructure, and public communication, but did not name concrete deadlines or measurable outcomes for ordinary Kathmandu residents. Watch for official details in coming weeks—transparency matters when government claims progress on public services.
 
-अमेरिकी स्कूलहरूले कक्षाकोठामा स्क्रिन समय घटाउन दबाबमा परेका छन् किनकि अभिभावक र शिक्षकले यो विद्यार्थीको ध्यान र मानसिक स्वास्थ्यमा नकारात्मक असर भएको गुनासो गरिरहेका छन्। डिभाइसले विद्यार्थीलाई पढाइबाट विचलित गर्ने र आँखामा तनाव तथा निद्रामा समस्या ल्याएको भन्ने चिन्ता यस आन्दोलनको मूल आधार छ। नेपालको शिक्षा क्षेत्रका लागि यो बहस एक महत्त्वपूर्ण सीख हो कि विद्यालयमा प्रविधि प्रयोग गर्दा नवीनता र विद्यार्थीको स्वास्थ्यबीचको सन्तुलन आवश्यक हुन्छ।
+नेपालको सूचना मन्त्रालयले आफ्नो १०० बुँदे सुधार कार्यक्रमअन्तर्गत उल्लेखनीय उपलब्धि हासिल गरेको घोषणा गर्‍यो तर नागरिकले वास्तवमा के लाभ पाउनेछन् यस बारेमा विस्तृत जानकारी दिएन। मन्त्रालयले मिडिया नियमन, डिजिटल पूर्वाधार र सार्वजनिक संचारमा सुधार गरिएको बताएको छ, तर काठमाडौंका आम नागरिकका लागि ठोस समयसीमा वा मापनयोग्य नतिजा निर्दिष्ट गरेन। आगामी हप्तामा आधिकारिक विवरण सार्वजनिक हुनसक्छ—सरकार जब सार्वजनिक सेवामा प्रगति गरेको दावी गर्छ, पारदर्शिता अत्यन्त आवश्यक छ।
 
-https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iU1RGTTZzWGZncUdadEY3UVNwTFFUbmc3Q0hUeTFtbk1FaUwwMWdURGkzWW8wNHRZN1RXVzdxZExvdHNiTFYtekxIMVNtV2w5?oc=5
+यस घटनाले नेपालको राजनीतिमा के प्रभाव पार्छ जस्तो लाग्छ? 💬
 
-#NepalBreaking #Nepal #नेपाल 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 2  |  Nepal Economy & Remittance (Google News)  |  May 27 09:13 NPT
-
-Constitution Overhaul: Twelve Economic Reforms Nepal Needs Now
-
-Nepal's Constitution requires twelve major economic reforms to unlock growth and restore investor confidence after years of capital market instability. The proposals target structural weaknesses in financial regulation, property rights, and business transparency that have deterred both domestic and foreign investment. Small entrepreneurs, wage workers, and savers lose when capital markets fail — fewer jobs, stagnant wages, and eroded savings returns. This matters because without constitutional change, Nepal's economy will continue to lag regional peers, directly reducing job creation and pushing more young people toward migration.
-
-नेपालको संविधानमा १२ वटा ठूला आर्थिक सुधार गरेमा पूँजी बजारको अस्थिरताले गरेको क्षति रोक्न र विनियोजकको आस्था पुनः स्थापन गर्न सकिनेछ। वित्तीय नियमन, सम्पत्तिको अधिकार र व्यापारिक पारदर्शितामा भएको संरचनागत कमजोरीले घरेलु र विदेशी विनियोजकदलाई नेपाल आउनबाट रोकेको छ। पूँजी बजार विफल हुँदा साना उद्योगी, मजदुर र बचतकर्ता सबै हानिमा परेका हुन्छन्, किनभने यसले रोजगारी सिर्जना गर्न बाधा पुग्छ र तलब स्थिर रहन्छ। संविधानिक सुधार गरिएन भने नेपालको अर्थतन्त्र क्षेत्रीय साथीदेशको तुलनामा पिछडिँदै जानेछ, जसले रोजगारी सिर्जनमा सीधा असर गरेर बढी युवा विदेश जान बाध्य हुनेछन्।
-
-https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjdHYk5qNTA1Vjl3NVNDdkFibUI3V1VMTnIwNEhaNmRKT091ZTRlM1ptUGwwUXItN3VnaUJTMVZLdUxlQmxma0FZSXg3enI4blhaWDQta1Zyb1o5V0JlcjN6UVloS2NxRFdzNFlTdGM3Q2pFZVdQN2Z6UmtXMm5oOE5lZVVKN0dfbkhsVUs1MXp2STBKZmNSYUhkcHkyVC1RdEpFaXQ0YXR2VmQzYmtTdW9FR3BRaVM4aDRv?oc=5
-
-@NRB.CentralBank
-#NepalEconomy #NepalNews #Nepal 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 3  |  Nepal Economy & Remittance (Google News)  |  May 27 08:09 NPT
-
-India Donates Ten Prisoner Transport Trucks to Nepal Police
-
-India handed over ten prisoner carrier trucks to Nepal's police force, expanding the country's capacity to transport detainees safely across districts. The donation directly supports Nepal's law enforcement agencies tasked with moving prisoners between courts, jails, and police stations in Kathmandu and beyond. This means reduced delays in court appearances and fewer security risks during prisoner transfers—a chronic problem that has strained Nepal's justice system for years. Watch whether these trucks actually reach rural districts or remain concentrated in the capital.
-
-भारतले नेपालको प्रहरी बललाई दश कैदी ढुवानी गाडी हस्तान्तरण गरेको छ। यी गाडी काठमाडौँ र अन्य जिल्लामा कैदीलाई अदालत, जेल र प्रहरी चौकीको बीच सुरक्षित रूपमा ढुवानी गर्न नेपालको क्षमता बढाउनेछ। यो कदमले अदालती सुनुवाइमा ढिलाइ कम गर्न र कैदी ढुवानीको समयमा सुरक्षा जोखिम घटाउन सहायक हुनेछ, जो नेपालको न्यायिक व्यवस्थालाई वर्षौँदेखि समस्याको सामना गरिरहेको छ।
-
-नेपालको वैदेशिक नीतिबारे तपाईंको के विचार छ? 💬
-
-https://news.google.com/rss/articles/CBMijwFBVV95cUxNV2lqY0hRTVhYRTkxbGFLaDNpUEYzdVdZdzR0d3djdFlybHd6aFotUmFILWg0TVp4SjZIMEt5amdPWEs5aldSVC1nUDJ4cldJbXp6OWpWem5wM05kQTE4NmkwZ2s1RHJNTUNUal8wMTl5bThPRGdLcEhteDVlMDQ4anlfR0JhS2lCanhRTFJjZw?oc=5
-
-#NepalBreaking #NepalPulse 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 5  |  The Kathmandu Post  |  May 27 13:59 NPT
-
-सुनकोसी-मारिन बाँधमा ११ प्रतिशत काम गरेर रमन-पटेल जेभी तीन वर्षका लागि ब्ल्याकलिस्ट
-
-सार्वजनिक खरिद अनुगमन कार्यालयले रमन-पटेल संयुक्त उद्यमलाई तीन वर्षका लागि ब्ल्याकलिस्ट गरेको छ। २०२३ जनवरीबाट चार वर्ष सात महिनेको अनुबन्धकालको साठी प्रतिशत अवधि बितिसकेपनि भारतीय ठेकेदारले मात्र ११ प्रतिशत काम गरेको हो। १४.०७ अर्ब रुपैयाँको अनुबन्धन नोभेम्बरमा समाप्त गरिएको छ र सरकारले ३.६० अर्ब रुपैयाँको बैंक ग्यारेन्टी जब्त गर्दैछ। यो नेपालका पूर्वाधार आयोजना अब ढिलो प्रगतिलाई सहन नगर्ने र आसन्न बाँध तथा जलविद्युत् आयोजनाका लागि कठोर मानक तोकिने संकेत दिएको छ।
-
-—
-
-Raman-Patel JV Blacklisted After Sunkoshi-Marin Dam Stalls at 11 Percent
-
-The Public Procurement Monitoring Office blacklisted Raman-Patel JV for three years after the Indian contractor completed only 11 percent of dam work despite 60 percent of the four-year-seven-month contract period elapsing since January 2023. The Rs14.07 billion contract was terminated in November after a 15-day notice, and the project is now confiscating Rs3.60 billion in bank guarantees. This signals that Nepal's infrastructure projects will no longer tolerate slow execution, even from established firms, setting a harder standard for future dam and hydro projects.
-
-https://kathmandupost.com/national/2026/05/27/contractor-blacklisted-for-delays-in-sunkoshi-marin-diversion-project
-
-@OPMCMNP
-#NepalGlobal #NepalNews #Nepal 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 6  |  Gorkhapatra  |  May 27 13:40 NPT
-
-Nepali-Origin Student Wins First Prize in Global Robotics Competition
-
-Angel Bhandari, a Nepal-origin student born in the United States, achieved historic success in the global robotics field. The accomplished roboticist represents a significant milestone for Nepal in international science and technology competitions.
-
-अमेरिकामा जन्मेकी नेपाली मूलकी विद्यार्थी एन्जेल भन्डारीले विश्वव्यापी रोबोटिक्स प्रतियोगितामा पहिलो पुरस्कार जितेकी छन्। यो नेपालका लागि अन्तर्राष्ट्रिय विज्ञान र प्रविधि क्षेत्रमा एक ऐतिहासिक सिद्धि हो। यस उपलब्धिले नेपालको नाम विश्वमञ्चमा उज्ज्वल गरेको छ।
-
-यसबारे तपाईंको विचार Comment मा लेख्नुस् 👇
-
-https://gorkhapatraonline.com/news/207749
+https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3RmI0bVlaTEsxOGdCV0pWbS1fZjZiZ3RsdjZrOHpPMDBEem16bWh2VnN4NWlvcnd0WjFXWUsxZ05neExRS09qcGlQcVpsd0du?oc=5
 
 #NepalBreaking #NepalPulse #Nepal 🇳🇵
 
 ────────────────────────────────────────────────────────────────
 
-── POST 7  |  Gorkhapatra  |  May 27 13:14 NPT
+── POST 3  |  Nepal Tech & Fintech (Google News)  |  May 27 18:28 NPT
 
-Nepal Sets China 126-Run Target in Asian Games Qualifier Women's Cricket
+Nepal, Switzerland Commit to Closer Economic Ties at Fifth Bilateral Meeting
 
-Nepal batted first after winning the toss against China in the women's cricket match of the Asian Games qualifier in Malaysia, scoring 125 runs for five wickets in 20 overs. Puja Mahato scored 63 runs off 57 balls with six boundaries, while Ruby Poddar contributed 22 runs not out and Soni Pakhrin added 18 runs. China's Ma Kuiqi took two wickets, with Wang Waiying and Li Jiping each taking one.
+Nepal and Switzerland held their fifth bilateral consultation, signaling a push for deepened economic and development cooperation between the two nations. The talks focused on expanding partnership in areas of mutual interest, though specifics of new commitments remain under discussion. For Nepal, closer Swiss ties could unlock technical expertise and investment in sectors like hydropower, tourism, and financial services—areas where Switzerland holds proven capability.
 
-मलेसियामा भइरहेको एशियन गेम्स क्वालिफायर महिला क्रिकेटमा नेपालले टस जिते र पहिले ब्याटिङ गरी २० ओभरमा पाँच विकेटको हानिमा १२५ रन बनाए। पुजा महातोले ५७ बलमा ६३ रन गरे र छवटा सीमानाहरू मारे, जबकि रुबी पोद्दारले नपराएको २२ र सोनी पाखरिनले १८ रन जोडे। चिनियाँ टोलीकी मा कुइकीले दुई विकेट लिइन्, जबकि वाङ वाइइङ र ली जिपिङले एक एक विकेट लिए। चिनियाँ टोली अब १२६ रनको लक्ष्य पूरै गर्न खेल्नेछ।
+नेपाल र स्विट्जरल्याण्डले पाँचौ द्विपक्षीय परामर्श गरी आर्थिक र विकास सहयोगलाई गहिराउन प्रतिबद्ध भएका छन्। दुवै देशले जलविद्युत, पर्यटन र आर्थिक सेवा क्षेत्रमा साझेदारीलाई विस्तार गर्ने योजना गरेका छन्। स्विट्जरल्याण्डको प्राविधिक दक्षता र लगानीले नेपालको विकास लक्ष्य पूरै गर्न सहयोग पुग्नेछ।
 
-https://gorkhapatraonline.com/news/207747
+https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYXdYbC1PVDZTV0gtSEw5c01CeUU3Y1dCenBYOW5CaUpUdGlzQnk0am12SWx5aWJiZXcydGphM0Q2LW5MYnVlSnhTcW5PMzdiYkQ2THI5aFd1QkhUTXZxSm82dUR5NWpJU3FmWmhxbVEyUUU0TEdoengzQ0J4b01ZV3BSQjlaaUJXMjVLLTB0NVl2MmxQTjA3NW9PYUZPWTFkVEF4N0dmcXNFeFlncUR3TFotdXNyY09QVVYwQ3NfLUpzOHdNTVhhZFVDREJtWG5zUnJXbFAtVWt0MnpmYUtKSWlVcEI?oc=5
+
+#NepalBreaking #NepalPulse #Nepal 🇳🇵
+
+────────────────────────────────────────────────────────────────
+
+── POST 4  |  Nepal Tech & Fintech (Google News)  |  May 27 16:03 NPT
+
+नेपालको पर्यटन क्षेत्रमा कृत्रिम बुद्धिमत्ताको आगमन
+
+कृत्रिम बुद्धिमत्तामा आधारित एप्लिकेसनले नेपालको ट्रेकिङ मार्गको पर्यटन व्यवसाय नियन्त्रण गर्न थालेका छन्। यी एल्गोरिदमले कुन मार्ग लोकप्रिय हुनेछ, कुन आवास असफल हुनेछ र कुन ऋतुमा भिड बढ्नेछ भन्ने भविष्यवाणी गर्न सक्छन्। यस परिवर्तनको कारण पर्यटकहरूका लागि राम्रो मूल्य निर्धारण हुनेछ तर स्थानीय गाइड र साना आवास सञ्चालकहरू डिजिटल प्रविधि र पूँजी अभावमा पिडित हुनसक्छन्।
+
+—
+
+AI Startups Target Nepal's Trekking Routes as Tech Giants Wake Up
+
+Nepal's tourism industry faces a quiet disruption: algorithms now predict which trails sell, which lodges fail, and which seasons draw crowds, shifting power from local guides to data platforms. This mirrors how digital platforms reshaped taxi and hotel markets globally, except here it touches Everest permits and village homestays directly. The shift means better pricing for tourists but risks squeezing small operators who lack tech access or capital to compete with AI-powered booking sites.
+
+https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaThxVjJRUUxZYVQ2ekgwZzZfaHMyX0V6OUdHVkNETkIzTmUxOTR3VENIdUNWSWZCWGNkWWI5bXVjTlYxc3UyMW8yM3JfRUNFVkFaNGhiT3ZOMFA3bE9IR2paTFJGREZHdjdHWENtSUM3MTlwWjdNTWpTQ2VDLUdlRHdMeXRmaWF5NTJZY3d2QlU0ZW8zYmw4ZEJ4N2x3MXFRaXdzLUo5eHI?oc=5
+
+@OPMCMNP
+#NepalGlobal #Nepal 🇳🇵
+
+────────────────────────────────────────────────────────────────
+
+── POST 5  |  Nepal Tech & Fintech (Google News)  |  May 27 15:13 NPT
+
+Nepal Hits Historic Foreign Exchange High, Economy Set to Grow 3.85%
+
+Nepal's foreign exchange reserves have reached an all-time peak, signaling strengthening economic stability as the nation navigates global uncertainty. The central bank projects gross domestic product growth of 3.85 percent, driven by rising remittance inflows and improved domestic investment climate. For ordinary Nepalis, stronger reserves mean better currency stability, lower import costs, and greater confidence in Nepal's ability to weather external shocks—a milestone the country has earned through sustained fiscal discipline.
+
+नेपालको विदेशी मुद्रा भण्डार सर्वकालिक उच्चतममा पुगेको छ र केन्द्रीय बैंकले सकल घरेलु उत्पादन वृद्धि ३.८५ प्रतिशत हुनेछ भनी अनुमान गरेको छ। विप्रेषण र आन्तरिक लगानीको वृद्धिले यो बढोत्तरीलाई संचालित गरिरहेको छ। साधारण नेपालीलाई यसको अर्थ मुद्रा स्थिर रहने, आयातको मूल्य घट्ने र विदेशी आघातको सामना गर्न राष्ट्र सक्षम हुने कुरा हो।
+
+https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3d5NW5hVE4zNXFSbHM5akc1X2FRS0d6bG42Qy1mSHZ4OGw2SzA0aDJ5OW5lZGlDV1hZZXdYWllraVV2LVBiWVFTZVc0VFk4Y0J5eng5MzBfM1V0MjF1S2Nudm1KMUhYbTQwblpJR0FrNVp0X3d2N1otMkV6NjJZTC1YbUtNMHhhcTJHZHFFelN3dERiOXIycF9TVXZXSHlIWUplcEtvZGprTmo0dTJvN0dKSG9UMDMwUDZyS29lYnl0UzFJ?oc=5
 
 #NepalBreaking #Nepal 🇳🇵
 
 ────────────────────────────────────────────────────────────────
 
-── POST 8  |  Gorkhapatra  |  May 27 13:08 NPT
+── POST 6  |  Nepal Tech & Fintech (Google News)  |  May 27 14:29 NPT
 
-Parliament Members Urge Government to Ensure Fertilizer Availability This Year
+Nepal Launches MoFA Mitra App for Citizens Living Abroad
 
-Members of Parliament's Agriculture Committee have pressed the government to timely arrange fertilizer supplies to prevent shortages affecting farmers this year. The committee emphasized that Nepal must reduce dependency on imports and develop domestic organic fertilizer production as a long-term solution. Officials were directed to complete fertilizer procurement procedures by mid-June to ensure adequate supply for the growing season.
+Nepal's Ministry of Foreign Affairs has launched the MoFA Mitra app to provide digital assistance to Nepali citizens working or living overseas. The app offers real-time support for passport services, visa issues, and emergency consular help without requiring citizens to visit embassies in person. For millions of Nepalis abroad—nearly 4 million work outside Nepal—the app cuts bureaucratic delays and reduces travel costs to nearest diplomatic offices.
 
-संसदको कृषि समितिले किसानको फसल उत्पादनमा बाधा नपुगोस् भन्दै सरकारलाई समयमै खाद आपूर्ति गर्न दबाब दिएको छ। समितिले नेपाललाई खादको आयातमा निर्भरता घटाई घरेलु जैविक खाद उत्पादन विकास गर्न जोर दिएको छ। सरकारी अधिकृतलाई जेठ मसान्तसम्म खाद खरिद कार्यविधि पूरै गरी वर्षायामको अवधिमा पर्याप्त आपूर्ति सुनिश्चित गर्न निर्देशन दिइएको छ।
+परराष्ट्र मन्त्रालयले विदेशमा रहेका नेपालीलाई डिजिटल सेवा दिने गरी 'मोफा मित्र' एप सार्वजनिक गरेको छ। यो एपको माध्यमबाट नागरिकले पासपोर्ट, भिसा र आपतकालीन सेवाका लागि दूतावास जाने आवश्यकता नपरी रिअल टाइमे सहायता पान सक्नेछन्। विदेशमा रहेका करीब चालीस लाख नेपालीका लागि यो एप नोकरशाही प्रक्रिया छिटो गर्न र दूतावास जानको यात्रा खर्च घटाउन मद्दत गर्नेछ।
 
-https://gorkhapatraonline.com/news/207746
+https://news.google.com/rss/articles/CBMiowFBVV95cUxOR0U1dTV1Y0dfazRCWURyNFZ2ajhjVGhyWWgwUVNBM1ZMcnY3SjBkeGxMZzN5dFpWdUd2Mk1mTmk2YWtKdkdrS3FqRjh2cVpXUUNhRG03OHRESW9HYTR2RXYtdEctNTlrakdpS19TeTRPMUhCZHk4US1EaC01TkozN3RaaVFHbHNQTVhOcFRrcDZEZzZLRVlUNTh4cTVqRTFsYjJN0gGoAUFVX3lxTE9XNE1zVnY0dUwwSElRTHY3V2EyRUxXZFNqZkJIUEZmWWRYRHBLUTJBZG9QMzdvSEhlOUV4cGhKSnNDLWNLdlN4ZkdFcE82cG10S3VLZ1hfY1VOX2VKVnpGemVsck9hRTNyVkE1aHJQMmhEY1JlNEpiUGI5UHZtZzVNTTZWNlFFZHpDNWk3S3ZPVGs4MHJZTjRSTFp2VDd2N0N2bnZmeGk5TA?oc=5
 
 #NepalBreaking #NepalPulse #Nepal 🇳🇵
+
+────────────────────────────────────────────────────────────────
+
+── POST 7  |  Nepal Tech & Fintech (Google News)  |  May 27 09:58 NPT
+
+US Schools Pull Screens From Classrooms Amid Health Concerns
+
+American schools are removing digital devices from classrooms after mounting evidence that excessive screen time harms student focus and mental health. Districts report teachers struggle to keep students engaged when laptops and tablets dominate instruction. The shift signals a broader reckoning: even tech-forward education systems now question whether screens belong in every lesson.
+
+अमेरिकाका विद्यालयले डिजिटल उपकरण कक्षाबाट हटाउन थालेका छन् किनकि अत्यधिक स्क्रिन समय विद्यार्थीको ध्यान र मानसिक स्वास्थ्य हानी गरेको प्रमाण बढिरहेको छ। जिल्लाहरूले रिपोर्ट गरेका छन् कि ल्यापटप र ट्याबलेट निर्देशन प्रभुत हुँदा शिक्षकले विद्यार्थीलाई सक्रिय राख्न संघर्ष गर्नु परेको छ। यो परिवर्तनले एक ठूलो विचार दिमलामा पुर्यायो—प्रविधि-सँग अनुकूल शिक्षा प्रणाली पनि अब प्रत्येक पाठमा स्क्रिन आवश्यक छ कि छैन भन्ने प्रश्न गर्दैछ।
+
+https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iU1RGTTZzWGZncUdadEY3UVNwTFFUbmc3Q0hUeTFtbk1FaUwwMWdURGkzWW8wNHRZN1RXVzdxZExvdHNiTFYtekxIMVNtV2w5?oc=5
+
+#NepalBreaking #Nepal #नेपाल 🇳🇵
 
 ────────────────────────────────────────────────────────────────
