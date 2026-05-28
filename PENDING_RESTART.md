@@ -1,128 +1,98 @@
 # Pending Restart — NepalPulse v2 "Nagarik"
 
 Changes coded and syntax-checked but **not yet live**.
-Daemon is **RUNNING** (started 2026-05-26 08:16 NPT). Items below activate on next restart.
-
-**Items 17–23 are truly pending** — items 1–16 are already live (daemon started before those changes).
+Daemon is **STOPPED** (crashed — last post 2026-05-28 00:55 NPT). Safe to restart.
 
 **Run `python3 restart.py`** to safely restart (3 safety checks + promotes `[p]→[x]` in PROJECTS.md).
 
 ---
 
-## 1. Gold Card — New Source & Layout
+## ✅ LIVE — Items 1–16 (loaded in daemon run started 2026-05-26)
 
-**Files:** `scanner/gov_scanner.py`, `illustrator/civic_cards.py`
+| # | Change | Files |
+|---|---|---|
+| 1 | Gold card: gold-api.com source, new 5-zone layout, tax premium strip | `gov_scanner.py`, `civic_cards.py` |
+| 2 | Kalimati card removed from scheduler (DNS dead) | `main.py`, `gov_scanner.py` |
+| 3 | DB migration: `image_url` column guard in `_ensure_columns()` | `db.py` |
+| 4 | Civic cards 2× supersampling → LANCZOS 1080px output | `civic_cards.py` |
+| 5 | Civic cards: zero decorative lines/rules — spacing only | `civic_cards.py` |
+| 6 | ~~Image overlay language switch~~ **superseded by item 23** | — |
+| 7 | Five new Google News RSS feeds (tech, climate, economy, migrant, Gulf) | `sources.py` |
+| 8 | Topic cluster cap: blocks ≥3 posts sharing ≥2 keywords in 48h | `poster.py` |
+| 9 | Global/diaspora priority +5 in queue scoring | `db.py` |
+| 10 | Nepali word correction learner: DB table + `word_stats.py` CLI | `db.py`, `formatter.py` |
+| 11 | NEPSE scraper: switched to `sharesansar.com/market`, column-position parser | `gov_scanner.py` |
+| 12 | Monsoon situation card (13th civic card, manual trigger) | `civic_cards.py`, `gov_scanner.py` |
+| 13 | Bandh auto-detection from RSS (Claude Haiku extracts 7 fields) | `gov_scanner.py`, `main.py` |
+| 14 | Loksewa auto-detection from RSS + PSC website scrape | `gov_scanner.py`, `main.py` |
+| 15 | Post-publication Hindi learning: DB logging + pass 4 auto-apply | `formatter.py`, `db.py`, `poster.py` |
+| 16 | Hindi leakage guard: 16 new patterns + Haiku readability rules | `formatter.py` |
 
-- Source changed from **FENEGOSIDA** (DNS dead) to **gold-api.com** — free JSON API, no key required
-- Math: `spot_usd/oz → NPR/tola via NRB live rate → ×1.112 (10% customs + 2% agri dev fee)`
-- New card layout: 5 zones (international spot / Nepal market / tax premium strip / silver / footer)
-- Tax premium strip: `NPR {n} extra per tola (+11.2%)` — explains why gold costs more in Nepal
-- Silver spot also fetched from gold-api.com (`/price/XAG`)
+---
 
-## 2. Kalimati Vegetable Card Removed
+## 🔴 PENDING — Items 17–23 (activate on next restart)
 
-**Files:** `main.py`, `scanner/gov_scanner.py`
-
-- `check_and_post_kalimati_card` removed from imports and 07:20 NPT scheduling block
-- Reason: `kalimatimarket.com.np` DNS dead (hostname unresolvable)
-- Function still in `gov_scanner.py` for future re-enable if DNS recovers
-- 07:20 NPT slot now free
-
-## 3. DB Migration — `image_url` Column Guard
-
-**File:** `database/db.py`
-
-- `"image_url": "TEXT"` added to `_ensure_columns()` dict
-- Ensures fresh-DB installs include the column without a manual ALTER TABLE
-- Live DB already has the column (patched manually 2026-05-21)
-
-## 4. Civic Cards — 2× Supersampling
-
-**File:** `illustrator/civic_cards.py`
-
-- `_S = 2`: all cards render at 2160×2160, downsample to 1080×1080 via `Image.LANCZOS`
-- `_ScaledDraw` wrapper scales all coordinates transparently — layout values unchanged
-- Result: sharp antialiased text and edges at 1080px output
-
-## 5. Civic Cards — Zero Decorative Lines / Rules
-
-**File:** `illustrator/civic_cards.py`
-
-- All `draw.line()` calls removed (NRB row separators, AQI city separators, etc.)
-- Thin accent rectangles removed (NEPSE underlines, Gold tax strip accent)
-- `_divider()` helper removed — was defined but never called
-- Policy: sections separated by typography + spacing + background color only
-
-## 6. Image Overlay Language Switch
-
-**File:** `illustrator/illustrator.py`
-
-- Photo cards for Nepali-source articles (`source_region="nepal"` or `source_language="ne"`) now show Devanagari headline as the big overlay text
-- International/global articles (Reuters, AP, Al Jazeera) keep English headline overlay
-- Renderer already handled Devanagari — this was a routing fix only
-- Creates immediate visual differentiation: Nepali news = Nepali text on image
-
-## 7. Five New Google News Topic RSS Feeds
-
-**File:** `config/sources.py`
-
-Added as Tier 2 (auto-verified, Nepal keyword baked into query):
-- `Nepal Tech & Fintech (Google News)` — `region: global`
-- `Nepal Climate & Environment (Google News)` — `region: global`
-- `Nepal Economy & Remittance (Google News)` — `region: global`
-- `Nepali Migrant Workers (Google News)` — `region: diaspora`
-- `Nepal Gulf & Southeast Asia (Google News)` — `region: diaspora`
-
-BBC Technology feed commented out — produced zero posts (global tech never mentions Nepal in headlines) but burned scan cycles every 7 min.
-
-## 8. Topic Cluster Cap
-
+### 17. Stories — Breaking & Civic Only
 **File:** `poster/poster.py`
 
-- New `_topic_cluster_ok()` gate: blocks article if ≥ 3 posts sharing ≥ 2 title keywords were posted in last 48h
-- Constants: `_TOPIC_CLUSTER_MAX_POSTS=3`, `_TOPIC_CLUSTER_MIN_KEYWORDS=2`, `_TOPIC_CLUSTER_HOURS=48`
-- Prevents Everest-week–style saturation (9 distinct-headline posts on same event cluster)
-- Called after diversity + duplicate gates; logs skip reason to DB
+- Stories now only fire when `is_breaking=True` OR `source_region` in `(civic, nrb, fuel, aqi, earthquake, gold, nepse)`
+- Previously: every article triggered a story → followers saw same news twice
+- Result: stories signal urgency only; routine feed posts stay feed-only
 
-## 9. Tier 1 / Global Priority Boost
+### 18. Category Palette — PIL Card Visual Variety
+**File:** `illustrator/meridian_card.py`
 
-**File:** `database/db.py`
+- `_CATEGORY_PALETTE`: 9 categories get unique `(top_band_rgb, accent_rgb)`
+- politics=crimson · economy=forest green/gold · disaster=charcoal/amber · india_nepal=deep blue/saffron · china_nepal=slate/jade · society=umber/terracotta · geography=teal/mountain blue · international=purple/lavender · diaspora=deep teal/copper
+- Roundel background matches top band; accent drives category label color
 
-- `get_unposted_verified()` priority score gains `+5` for `source_region IN ('global', 'diaspora')`
-- Fixes: Reuters/AP were buried under Gorkhapatra volume even when equally fresh
-- Before: domestic Nepal 81% of posts, global 8%. Boost surfaces international stories
+### 19. NEPSE Card — Correct Close Time + Validation
+**Files:** `main.py`, `scanner/gov_scanner.py`
 
-## 10. Nepali Word Correction Learner
+- Post time: **15:30 → 15:45 NPT** (45 min after close for final figures)
+- Retry on failure: `last_nepse_card_date` only set on success (was set unconditionally)
+- Cross-validation: index-table turnover vs summary-table must agree within 2%
+- Sanity bounds: index 800–6000, change <10%, volume >100,000, transactions >1,000
 
-**Files:** `database/db.py`, `formatter/formatter.py`, `nepalpulse/word_stats.py` (new)
+### 20. Haiku Prompt — Explicit Hindi Blacklist
+**File:** `formatter/formatter.py`
 
-- New DB table `nepali_corrections (id, article_id, token, replacement, pass_type, created_at)`
-- `_nepali_word_guard()` now accepts `article_id` and logs every correction (all 3 passes: anusvara, leakage, domain)
-- Both call sites in `formatter.py` pass `article_id` through
-- `word_stats.py` CLI: `python3 word_stats.py` — shows top Hindi leakage patterns by frequency, surfaces candidates for expanding the guard lists
+- "प्रतिबन्धित हिन्दी शब्दहरू" section added to Nepali prompt
+- Top 19 leakers listed with hit counts: पूरा→पूरै (83×), साथ→सँगै (30×), केवल→मात्र (21×) etc.
+- Makes Claude avoid them at generation time; word guard remains as safety net
 
-## 11. NEPSE Scraper Fix
+### 21. Wikimedia Commons Photo Search
+**File:** `illustrator/wikimedia.py` (new)
 
-**File:** `scanner/gov_scanner.py`
+- CC-licensed real photo fetched when RSS has no image
+- Three recency tiers:
+  - Politician names + gov building keywords → **2025+ uploads only**
+  - General politics, economy, infrastructure → **2020+ uploads only**
+  - Disaster, geography, nature → **any year**
+- Politician detection from title (KP Oli, Prachanda, Deuba, Rabi, Balen, Modi, Trump…) → face photo search first
+- `gsrsort=create_timestamp_desc` — newest uploads surface first
+- Falls back without year filter if strict search yields nothing
 
-- **Root cause**: scraper was hitting `sharesansar.com/` homepage — picked up year "2019" as false index, leaked same value into volume + transactions fields. `nepalstock.com.np` and `merolagani.com` are JS SPAs (BeautifulSoup gets loading skeleton).
-- **Fix**: switched to `sharesansar.com/market` — server-rendered page with clean HTML index table
-- Parser finds "Index Open High Low Close Point Change % Change Turnover" table header, locates NEPSE Index row by label, extracts each column by position
-- Second pass reads summary table for Traded Shares and Total Transactions
-- **Verified live**: 2,758.49 (+16.38, +0.59%), turnover NPR 449.85 Cr, 54,497 transactions
+### 22. Pollinations AI Image Generation (Second Fallback)
+**File:** `illustrator/pollinations.py` (new)
 
-## 12. Monsoon Situation Card
+- Generates 1080×1080 photorealistic image when RSS + Wikimedia both return nothing
+- Free, no API key — `flux-realism` model via `image.pollinations.ai`
+- Prompt: `scene` field + category context + "photorealistic, editorial news photography, no text"
+- Random seed per call; 20s timeout; None on failure → PIL card takes over
 
-**Files:** `illustrator/civic_cards.py`, `scanner/gov_scanner.py`
+### 23. Photo Card — Devanagari Primary + English Subhead (supersedes item 6)
+**Files:** `illustrator/meridian_card.py`, `illustrator/illustrator.py`
 
-- New `make_monsoon_card()` — 13th civic card type, "Civic Bold" Masterframe design
-- Shows cumulative season totals: deaths (big crimson), missing + injured (side by side), displaced, economic loss (gold), infrastructure damage (crimson), districts affected footer
-- Bilingual: Devanagari labels, English sub-labels, safety CTA in Devanagari
-- New `post_monsoon_update()` in `gov_scanner.py` — manual trigger with NDRRMA data
-- One post per day max (use `force=True` for significant data updates mid-day)
-- State tracked in `gov_scanner_state.json` key `last_monsoon_post_date`
+- All photo cards (RSS, Wikimedia, Pollinations) show **Devanagari as the big headline** whenever it exists — regardless of source language
+- English rendered as smaller 22px subhead (70% opacity) below Devanagari
+- `render_photo_card_from_bytes()` added for Pollinations raw-bytes path
+- Full image hierarchy: RSS photo → Wikimedia → Pollinations AI → PIL text card
 
-**To post** (get data from ndrrma.gov.np/situation-reports):
+---
+
+## Monsoon card — manual trigger (no restart needed)
+
 ```python
 cd nepalpulse
 python3 -c "
@@ -136,131 +106,6 @@ post_monsoon_update(
 )
 "
 ```
-
-## 13. Bandh Auto-Detection from RSS
-
-**Files:** `scanner/gov_scanner.py`, `main.py`
-
-- New `check_bandh_from_articles()` — runs each scan cycle
-- Scans last 12h of verified articles from: Gorkhapatra, Rising Nepal, Onlinekhabar, Setopati, Kantipur, Nagarik News, Ratopati, Pahilopost
-- Keywords: `बन्द`, `हड़ताल`, `चक्काजाम`, `bandh`, `hartal`, `strike`, `shutdown`
-- Claude Haiku extracts 7 required fields: location, organizer, start_time, end_time, date_str, affected, exempt
-- Auto-posts bandh card only when **all 7 fields are non-null** — skips silently if any field ambiguous
-- Max 1 auto-bandh card per day (state key: `last_bandh_auto_date`)
-- Processed article IDs tracked to avoid re-checking (state key: `processed_bandh_ids`, capped at 200)
-
-## 14. Loksewa Auto-Detection from RSS + PSC Website
-
-**Files:** `scanner/gov_scanner.py`, `main.py`
-
-- New `check_loksewa_from_articles()` — runs each scan cycle
-- **Two sources:**
-  1. `psc.gov.np/notices` — direct HTML scrape; fingerprinted to detect new notices (earlier than RSS)
-  2. Last 24h verified articles from: Gorkhapatra, Rising Nepal, Onlinekhabar, Setopati, Kantipur, Nagarik News
-- Keywords: `लोकसेवा`, `लोक सेवा`, `PSC`, `खरिदार`, `नायब सुब्बा`, `vacancy`, `lok sewa`, etc.
-- Claude Haiku extracts: position, ministry, vacancies, eligibility, deadline, days_left, adv_no, vacancy_type
-- Posts only when position + ministry + eligibility + deadline are all present — skips if ambiguous
-- Max 2 auto-Loksewa cards per day (state key: `loksewa_auto_count`)
-- Helper functions: `_claude_extract_json()`, `_scrape_psc_notices()`, `_extract_loksewa_fields()`
-
-## 15. Post-Publication Hindi Learning System
-
-**Files:** `formatter/formatter.py`, `database/db.py`, `poster/poster.py`, `word_stats.py`
-
-- `scan_postpub_hindi(article_id, nepali_text)` — runs after every successful Facebook post (called from `poster.py` after `db.mark_posted()`)
-- Checks published Nepali text against two sets:
-  - `_POSTPUB_EXTRA` (17 Hindi patterns not in the main guard) → logged as `pass_type='postpub_new'`
-  - All `_HINDI_LEAKAGE` and `_ANUSVARA_NORM` patterns → logged as `pass_type='postpub_slip'`
-- `get_learned_replacements(min_hits=2)` in `db.py` — fetches high-frequency `postpub_new` patterns
-- Pass 4 in `_nepali_word_guard()` — auto-applies learned patterns (refreshed every 50 guard calls)
-- `word_stats.py` updated — shows `POST-PUBLICATION LEAKAGE` and `GUARD FAILURES` sections
-- CLI: `cd nepalpulse && python3 word_stats.py --postpub`
-
-## 16. Nepali Word Quality — Hindi Leakage Guard + Readability
-
-**File:** `formatter/formatter.py`
-
-- **16 new patterns added to `_HINDI_LEAKAGE`** (were only in `_POSTPUB_EXTRA` detection, never blocking):
-  - Multi-word postpositions: `के लिए→का लागि`, `के साथ→सँग`, `के बारे में→बारेमा`, `के रूप में→रूपमा`
-  - Time phrases: `के बाद→पछि`, `से पहले→अघि`
-  - Other multi-word: `के मुताबिक→अनुसार`, `बताते हुए→जानकारी दिँदै`, `कम से कम→कम्तीमा`, `सब कुछ→सबै केही`
-  - Single words: `हालांकि→यद्यपि` (anusvara form — chandrabindu form was guarded but not this), `फिलहाल→हालसम्म`, `खासकर→विशेषगरी`, `ज्यादा→धेरै`, `ज्यादातर→अधिकांश`, `बेहद→अत्यन्त`
-- **Nepali prompt — 2 readability rules added:**
-  - एउटा वाक्यमा एउटा मात्र विचार (one idea per sentence, no compound chains)
-  - १५–२५ शब्द प्रति वाक्य target (mobile reading length)
-- **Prompt vocabulary section expanded** — all new mappings shown as explicit examples so Claude Haiku sees them before writing
-
-## 17. Stories — Breaking & Civic Only
-
-**File:** `poster/poster.py`
-
-- Stories now only fire when `article.get("is_breaking")` is True OR `source_region` is in `("civic", "nrb", "fuel", "aqi", "earthquake", "gold", "nepse")`
-- Previously: every article triggered a story card → followers saw same news twice (feed + story)
-- Result: stories become a signal for urgency; routine articles post to feed only
-
-## 18. Category Palette — Card Visual Variety
-
-**File:** `illustrator/meridian_card.py`
-
-- Added `_CATEGORY_PALETTE` dict: 9 categories each get a unique `(top_band_rgb, accent_rgb)`
-- Top band color changes per category; bone body and navy footer unchanged (brand preserved)
-- Roundel background now matches top band (was always `GROUND` navy — looked mismatched on tinted bands)
-- Category label text (Devanagari + English) uses accent color instead of hardcoded `SIGNAL` crimson
-- Palettes: politics=crimson, economy=forest green/gold, disaster=charcoal/amber, india_nepal=deep blue/saffron, china_nepal=slate/jade, society=umber/terracotta, geography=teal/mountain blue, international=purple/lavender, diaspora=deep teal/copper
-
-## 19. NEPSE Card — Correct Close Time + Data Validation
-
-**Files:** `main.py`, `scanner/gov_scanner.py`
-
-- **Post time moved 15:30 → 15:45 NPT** — sharesansar publishes intraday values during trading; 15:45 gives 45 min after market close (15:00) for final figures to settle. Root cause: today printed 2786.35 (mid-session) instead of correct close 2777.10.
-- **Retry on failure** — `last_nepse_card_date` now only set when `check_and_post_nepse_card()` returns `True`; previously set unconditionally so failed/stale fetches were never retried
-- **Cross-validation** — turnover from index table vs summary table must agree within 2%; aborts if mismatch
-- **Sanity bounds** — index must be 800–6000; daily change must be <10% of index; volume >100,000; transactions >1,000; any breach aborts and logs a warning
-
-## 20. Haiku Prompt — Explicit Hindi Blacklist
-
-**File:** `formatter/formatter.py` (`_generate_nepali_fields`)
-
-- Added "प्रतिबन्धित हिन्दी शब्दहरू" section to Claude Haiku Nepali prompt
-- Lists top 19 high-frequency leakers with correct replacements and hit counts visible to model
-- Top offenders shown explicitly: पूरा→पूरै (83×), साथ→सँगै (30×), केवल→मात्र (21×), पुलिस→प्रहरी (9×), शुरू→सुरु (9×) etc.
-- Word guard (`_HINDI_LEAKAGE`) already covers all these as a safety net — this makes Claude not generate them in the first place
-- Confirmed: all `_POSTPUB_EXTRA` words already in `_HINDI_LEAKAGE` — guard is complete
-
-## 21. Wikimedia Commons Photo Search
-
-**File:** `illustrator/wikimedia.py` (new)
-
-- Fetches a CC-licensed real photo from Wikimedia Commons when the RSS article has no image
-- Three recency tiers to keep photos current:
-  - Politician names + government building keywords (parliament, Singha Durbar, ministry…) → **2025+ uploads only**
-  - General politics, economy, infrastructure → **2020+ uploads only**
-  - Disaster, geography, nature → **any year** (timeless subjects)
-- Politician detection: scans article title for known names (KP Oli, Prachanda, Deuba, Rabi, Balen Shah, Modi, Trump, etc.) — triggers face photo search first
-- Sorts results by `create_timestamp_desc` (newest upload first)
-- If strict year filter yields nothing, retries once without year filter before giving up
-- Zero API keys required
-
-## 22. Pollinations AI Image Generation (Fallback)
-
-**File:** `illustrator/pollinations.py` (new)
-
-- Generates a 1080×1080 photorealistic image via Pollinations.ai when both RSS and Wikimedia return nothing
-- Free, no API key, uses `flux-realism` model
-- Prompt built from formatter's `scene` field + category context hint + editorial style suffix ("photorealistic, news photography, no text, no watermark")
-- Random seed per call — no two retries produce the same image
-- 20s timeout; returns None on failure (graceful — PIL card takes over)
-- Zero new dependencies (urllib only)
-
-## 23. Photo Card — Devanagari Primary Headline + English Subhead
-
-**Files:** `illustrator/meridian_card.py`, `illustrator/illustrator.py`
-
-- All photo cards (RSS, Wikimedia, Pollinations) now show **Devanagari as the big headline** when it exists, regardless of article source
-- English headline rendered as smaller subhead (70% opacity, 22px) below the Devanagari block
-- Previously: only Nepal-source articles showed Devanagari; international articles showed English only
-- `render_photo_card_from_bytes()` added to `meridian_card.py` — same chyron overlay as `render_photo_card()` but accepts raw image bytes instead of a URL (used by Pollinations path)
-- Image hierarchy in `illustrator.py`: RSS → Wikimedia → Pollinations AI → PIL text card
 
 ---
 
