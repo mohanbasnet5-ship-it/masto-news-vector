@@ -1,13 +1,13 @@
 # Pending Restart — NepalPulse v2 "Nagarik"
 
-Changes coded and syntax-checked but **not yet live**.
-Daemon is **STOPPED** (crashed — last post 2026-05-28 00:55 NPT). Safe to restart.
+All 23 items are **LIVE** — daemon restarted 2026-05-28 10:17 NPT (PID 21671).
+No items pending. Next changes will be items 24+.
 
 **Run `python3 restart.py`** to safely restart (3 safety checks + promotes `[p]→[x]` in PROJECTS.md).
 
 ---
 
-## ✅ LIVE — Items 1–16 (loaded in daemon run started 2026-05-26)
+## ✅ LIVE — Items 1–23 (loaded in daemon run started 2026-05-28 10:17 NPT)
 
 | # | Change | Files |
 |---|---|---|
@@ -30,7 +30,7 @@ Daemon is **STOPPED** (crashed — last post 2026-05-28 00:55 NPT). Safe to rest
 
 ---
 
-## 🔴 PENDING — Items 17–23 (activate on next restart)
+## 🔴 PENDING — (none currently)
 
 ### 17. Stories — Breaking & Civic Only
 **File:** `poster/poster.py`
