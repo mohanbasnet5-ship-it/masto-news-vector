@@ -30,7 +30,24 @@ No items pending. Next changes will be items 24+.
 
 ---
 
-## 🔴 PENDING — (none currently)
+## 🔴 PENDING — Items 24–25 (activate on next restart)
+
+### 24. launchd Auto-Restart (OS-level crash recovery)
+**Setup:** `~/Library/LaunchAgents/com.nepalpulse.daemon.plist` loaded 2026-05-28
+
+- launchd now manages the daemon with `KeepAlive=true` — auto-restarts within 5 min of any crash
+- `preflight.sh` runs before Python starts: blocks restart if FB circuit active or post <5 min ago
+- `ThrottleInterval=300` — launchd won't retry faster than every 5 min (prevents churn)
+- **To restart safely:** `launchctl stop com.nepalpulse.daemon` (launchd auto-restarts it)
+- **To stop permanently:** `launchctl unload ~/Library/LaunchAgents/com.nepalpulse.daemon.plist`
+- ⚠️ Already active — no daemon restart needed for this change
+
+### 25. Concurrent Instance Detection — Exit Immediately
+**File:** `main.py`
+
+- `_check_concurrent_attack()` now calls `sys.exit(1)` if PID file contains a different alive PID — the duplicate instance kills itself immediately instead of lingering as a zombie
+- `_acquire_lock()` ps check loosened: matches `main.py` anywhere in cmdline (macOS nohup omits full path)
+- Prevents the "two restarts in quick succession → both instances running → both confused" failure mode
 
 ### 17. Stories — Breaking & Civic Only
 **File:** `poster/poster.py`
