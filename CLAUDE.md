@@ -42,7 +42,7 @@ MASTO NEWS VECTOR/
 │   ├── illustrator/
 │   │   ├── illustrator.py   ← wrapper → delegates to meridian_card for article story cards
 │   │   ├── meridian_card.py ← PIL 1080×1080 story card (navy/bone/crimson brand)
-│   │   └── civic_cards.py   ← PIL 1080×1080 civic cards — 12 types (NRB, AQI, fuel, gold, NEPSE, earthquake, bandh, Loksewa, scholarship, Everest, cricket, Kalimati); "Civic Bold" Masterframe; 2× supersampled → LANCZOS downsample
+│   │   └── civic_cards.py   ← PIL 1080×1080 civic cards — 13 types (NRB, AQI, fuel, gold, NEPSE, earthquake, bandh, Loksewa, scholarship, Everest, cricket, Kalimati, monsoon); "Civic Bold" Masterframe; 2× supersampled → LANCZOS downsample
 │   ├── summarizer/
 │   │   └── summarizer.py    ← 3 daily digest cards (Gemini text + PIL image)
 │   ├── poster/
@@ -174,6 +174,7 @@ cd nepalpulse && python3 dev.py gov nepse                # render NEPSE card
 cd nepalpulse && python3 dev.py gov fuel                 # render Fuel card
 cd nepalpulse && python3 dev.py gov earthquake           # render Earthquake card (sample)
 cd nepalpulse && python3 dev.py gov kalimati             # render Kalimati vegetable price card
+# Monsoon card: manually triggered (not scheduled); call post_monsoon_update() directly from scanner.gov_scanner
 
 # Nepali word guard — diagnose Hindi leakage from Claude Haiku
 cd nepalpulse && python3 word_stats.py                   # last 30 days, top 30 leaking patterns
@@ -491,6 +492,6 @@ All in `nepalpulse/.env`:
 - `posts/` folder is the primary manual posting interface; each file is named `{article_id}_{source}_{slug}.txt` and auto-deleted once `mark_posted.py` is run. Auto-replenished by daemon ticks or `refresh_posts.command`.
 - `ROADMAP.md` at repo root is a legacy 4-phase technical reference — `PROJECTS.md` is now authoritative for active work
 - **Meridian card layout** (`meridian_card.py`): `TOP_BAND_H=180`, `BOTTOM_BAND_H=110`. Ridge is dynamic — floats up to sit 10px below the last content line (`_draw_ridge_motif(y_top=y+10, y_bottom=BODY_BAND_Y1)`). English body font 27px. Render test cards: `cd nepalpulse && python3 -m illustrator.meridian_card --sample`
-- **Civic card system** (`illustrator/civic_cards.py`): 12 `make_*` functions — one per card type. Shared design language: Devanagari name as largest header text, chip-based data layout, navy/paper/accent tricolor per card, NEPALPULSE·BY MASTO gold footer. 2× supersampled (`_S=2`, all coords via `_ScaledDraw` wrapper, final `resize((1080,1080), LANCZOS)`). Zero decorative lines or boxes anywhere — sections separated by spacing and background color only.
+- **Civic card system** (`illustrator/civic_cards.py`): 13 `make_*` functions — one per card type. Shared design language: Devanagari name as largest header text, chip-based data layout, navy/paper/accent tricolor per card, NEPALPULSE·BY MASTO gold footer. 2× supersampled (`_S=2`, all coords via `_ScaledDraw` wrapper, final `resize((1080,1080), LANCZOS)`). Zero decorative lines or boxes anywhere — sections separated by spacing and background color only.
 - **Reels** (`nepalpulse/reels/`): `reel_maker.py` generates 325-frame PNG sequence → ffmpeg MP4 (25 fps, 13s). Scene 2 = dark navy headline, Scene 3 = warm paper story (Devanagari + English + body + Nepali), Scene 5 = navy CTA. ffmpeg + poster wiring not yet connected to daemon.
 - **Restart safety check**: `sqlite3 nepalpulse/nepalpulse.db "SELECT ROUND((julianday('now')-julianday(MAX(posted_fb_at)))*1440,1) FROM articles WHERE is_posted_fb=1;"` — wait until result is ≥ 90 min before restarting

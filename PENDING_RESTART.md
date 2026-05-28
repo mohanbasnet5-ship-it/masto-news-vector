@@ -3,7 +3,7 @@
 Changes coded and syntax-checked but **not yet live**.
 Daemon is **RUNNING** (started 2026-05-26 08:16 NPT). Items below activate on next restart.
 
-**Items 17, 18, 19, 20 are truly pending** — items 1–16 are already live (daemon started before those changes).
+**Items 17–23 are truly pending** — items 1–16 are already live (daemon started before those changes).
 
 **Run `python3 restart.py`** to safely restart (3 safety checks + promotes `[p]→[x]` in PROJECTS.md).
 
@@ -226,6 +226,41 @@ post_monsoon_update(
 - Top offenders shown explicitly: पूरा→पूरै (83×), साथ→सँगै (30×), केवल→मात्र (21×), पुलिस→प्रहरी (9×), शुरू→सुरु (9×) etc.
 - Word guard (`_HINDI_LEAKAGE`) already covers all these as a safety net — this makes Claude not generate them in the first place
 - Confirmed: all `_POSTPUB_EXTRA` words already in `_HINDI_LEAKAGE` — guard is complete
+
+## 21. Wikimedia Commons Photo Search
+
+**File:** `illustrator/wikimedia.py` (new)
+
+- Fetches a CC-licensed real photo from Wikimedia Commons when the RSS article has no image
+- Three recency tiers to keep photos current:
+  - Politician names + government building keywords (parliament, Singha Durbar, ministry…) → **2025+ uploads only**
+  - General politics, economy, infrastructure → **2020+ uploads only**
+  - Disaster, geography, nature → **any year** (timeless subjects)
+- Politician detection: scans article title for known names (KP Oli, Prachanda, Deuba, Rabi, Balen Shah, Modi, Trump, etc.) — triggers face photo search first
+- Sorts results by `create_timestamp_desc` (newest upload first)
+- If strict year filter yields nothing, retries once without year filter before giving up
+- Zero API keys required
+
+## 22. Pollinations AI Image Generation (Fallback)
+
+**File:** `illustrator/pollinations.py` (new)
+
+- Generates a 1080×1080 photorealistic image via Pollinations.ai when both RSS and Wikimedia return nothing
+- Free, no API key, uses `flux-realism` model
+- Prompt built from formatter's `scene` field + category context hint + editorial style suffix ("photorealistic, news photography, no text, no watermark")
+- Random seed per call — no two retries produce the same image
+- 20s timeout; returns None on failure (graceful — PIL card takes over)
+- Zero new dependencies (urllib only)
+
+## 23. Photo Card — Devanagari Primary Headline + English Subhead
+
+**Files:** `illustrator/meridian_card.py`, `illustrator/illustrator.py`
+
+- All photo cards (RSS, Wikimedia, Pollinations) now show **Devanagari as the big headline** when it exists, regardless of article source
+- English headline rendered as smaller subhead (70% opacity, 22px) below the Devanagari block
+- Previously: only Nepal-source articles showed Devanagari; international articles showed English only
+- `render_photo_card_from_bytes()` added to `meridian_card.py` — same chyron overlay as `render_photo_card()` but accepts raw image bytes instead of a URL (used by Pollinations path)
+- Image hierarchy in `illustrator.py`: RSS → Wikimedia → Pollinations AI → PIL text card
 
 ---
 
