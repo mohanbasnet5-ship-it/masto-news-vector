@@ -1,5 +1,5 @@
 READY TO POST — NepalPulse
-Updated: 2026-05-28 17:21 NPT
+Updated: 2026-05-29 06:02 NPT
 8 articles ready
 ════════════════════════════════════════════════════════════════
 
@@ -8,128 +8,86 @@ After posting, run: python3 nepalpulse/mark_posted.py <number>
 
 ════════════════════════════════════════════════════════════════
 
-── POST 1  |  Nepal Economy & Remittance (Google News)  |  May 28 16:28 NPT
+── POST 1  |  Nepal Tech & Fintech (Google News)  |  May 29 00:45 NPT
 
-विदेशी लगानीमा नेपालको निर्भरता बढ्दै, घरेलु लाभांश घट्यो
+हुवावेले नेपाली दूरसञ्चार अपरेटरलाई AI र ५G समाधान प्रस्तुत गर्‍यो
 
-सरकारी मन्त्री खनालले अन्तर्राष्ट्रिय सम्बन्धमा जोर दिएर लगानी आकर्षण गर्ने घोषणा गर्‍यो। राज्य स्वामित्वका संस्थाहरूले खजानामा ७.५५ खर्ब रुपैयाँको अतिरिक्त पुँजी आवश्यक छ भनी सरकारले स्वीकार गरेको छ। तर सरकारले आठ खर्ब रुपैयाँ लगानी गरेका घरेलु उद्यमहरू अब कम लाभांश दिइरहेका छन्। यसको अर्थ नेपालले आफ्ना मौजुदा सरकारी सम्पत्तिबाट बजेट समस्या समाधान गर्न सक्दैन भन्ने कुरा खुलेको छ। भारत, चिनिया र बहुपक्षीय ऋणदाताहरूसँगको नयाँ द्विपक्षीय सम्झौता वर्षको अन्तसम्म प्रतिबद्ध लगानीमा परिणत हुनेछ कि नहुनेछ यो हेर्नुपर्ने कुरा रहेको छ।
+हुवावे नेपालले Mini MWC २०२६ शिखर सम्मेलनमा दूरसञ्चार अपरेटरलाई कृत्रिम बुद्धिमत्ता र ५G आधारित संजाल समाधान प्रदर्शन गर्‍यो। नेपाली अपरेटरहरू भारतीय र चिनियाँ विकल्पहरूसँग प्रतिस्पर्धा गर्न संजाल आधुनिकीकरण गर्न दबाबमा छन्। हुवावेको यो प्रविधि अपनाउने अपरेटरहरू तीव्र इन्टरनेट गति र सस्तो सेवा दिएर ग्राहकहरूका लागि लाभदायक हुनेछन्।
 
 —
 
-Nepal Pins Growth on Foreign Investment as Domestic Dividends Shrink
+Huawei Nepal Hosts Mini MWC 2026 Summit With Local Telecom Operators
 
-Government minister Khanal announced a pivot toward international relations to attract investment, as state-owned enterprises deliver fewer dividends to the treasury. Nepal needs Rs 755 billion in additional capital to meet development targets, yet domestic public enterprises approaching Rs 800 billion in government investment are returning less cash. The shift signals acknowledgment that Nepal cannot grow its way out of budget constraints through existing state assets alone. Watch whether new bilateral deals with India, China, or multilateral lenders materialize into committed capital by year-end.
+Huawei Nepal convened telecom operators at Mini MWC 2026 to showcase infrastructure and AI-driven connectivity solutions aligned with the company's 'Age of All Intelligence' framework. The event signals Huawei's deepening partnership with Nepal's telecom sector as operators face pressure to upgrade networks competing with Indian and Chinese alternatives. Operators who adopt Huawei's AI and 5G technology will position themselves ahead of rivals betting on older infrastructure, directly affecting network speeds and pricing for customers.
 
-https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QOXR5SmFsekxCVFBsS20yc0JveHNaTGNaYUdXdWpvc2lzQ2I3dkdvWmFGR1hwWFFJUS04TFFiWFZWYk52MGo0RF9kNUJCZks1?oc=5
-
-#NepalBreaking #Nepal #नेपाल 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 2  |  Nepal Tech & Fintech (Google News)  |  May 28 16:18 NPT
-
-Nepal Hosts Major Global Tourism Trade Show in Early June
-
-Nepal is joining the United States, Japan, Spain, Greece and other nations in hosting significant meetings and events during the first week of June that will draw tourism, airline, cruise, technology and association leaders. The trade shows are designed to supercharge the meetings and events industry globally. Kathmandu's tourism sector stands to gain direct exposure to international decision-makers who influence travel patterns and investment.
-
-नेपालले अमेरिका, जापान, स्पेन, ग्रीस र अन्य देशसँग जुनको पहिलो हप्तामा पर्यटन, एयरलाइन, क्रुज, प्रविधि र संस्था नेताहरूलाई आकर्षण गर्ने ठूलो बैठक र अनुष्ठान आयोजना गर्दैछ। यो व्यापार प्रदर्शनी विश्वव्यापी बैठक र अनुष्ठान उद्योगलाई शक्तिशाली गर्न डिजाइन गरिएको छ। काठमाडौंको पर्यटन क्षेत्रले यातायात प्रवाह र लगानीलाई प्रभाव पार्ने अन्तर्राष्ट्रिय निर्णय ग्राहकहरूलाई सीधा सम्पर्क गर्ने सुयोग पाउनेछ।
-
-यसबारे तपाईंको विचार Comment मा लेख्नुस् 👇
-
-https://news.google.com/rss/articles/CBMibkFVX3lxTE5XSVdDb01WYVBnZ0VyOEhDeXIxaWhCOS1KWjlCVV9sX2xOczdTTTNWRHYzYldySWtzMmRkWG5MbzNqZ2N1TVVRU0NkSnhtWGdIdTVwYkU0R3lGS2xhNnlKTWd2UjBNbDhzY0RGUFpB?oc=5
+https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zT1ZUX1cwSm4zZTJibGZNRUJ6ZXRhNFB5ZjBYX3hCWEo3dGpabzZDd2d5bUVFVnI4dmVGV1RvelNTNVdfUmJxMjVTaE1DcC1FY0p1WjgxNXZiRE9sSk5Odw?oc=5
 
 #NepalBreaking #NepalPulse #Nepal 🇳🇵
 
 ────────────────────────────────────────────────────────────────
 
-── POST 3  |  Nepal Economy & Remittance (Google News)  |  May 28 16:03 NPT
+── POST 2  |  Nepal Tech & Fintech (Google News)  |  May 28 13:35 NPT
 
-Nepal's Foreign Minister Ties Development Push to Stronger International Ties
+काठमाडौंमा मुस्लिम समुदायले ईद अल-अधा मनाए
 
-Nepal's government is banking on deeper international relationships to unlock investment and accelerate development projects across the country. The Foreign Minister framed bilateral and multilateral partnerships as essential to attracting foreign capital and expertise for infrastructure work. For Kathmandu residents, this signals the government's strategy to fund roads, transit systems, and power projects through foreign deals rather than domestic resources alone.
-
-नेपालको सरकारले विदेशी लगानी आकर्षण गरेर देशभरका विकास कार्यक्रम द्रुत गर्ने रणनीति अबलम्बन गरेको छ। विदेशमन्त्रीले द्विपक्षीय र बहुपक्षीय साझेदारीलाई आधारभूत संरचना निर्माणका लागि आवश्यक भएको बताइएका छन्। काठमाडौंका बासिन्दाहरूका लागि यो सरकारको सडक, सार्वजनिक यातायात र विद्युत् आपूर्ति परियोजना विदेशी करारमार्फत कार्यान्वयन गर्ने रणनीति सङ्केत गर्छ।
-
-यस घटनाले नेपालको राजनीतिमा के प्रभाव पार्छ जस्तो लाग्छ? 💬
-
-https://news.google.com/rss/articles/CBMizwFBVV95cUxPV0hVMWxxeFJYd1hiUEx1RjVpWTIzWHp0cUw0VUVKZVhqZ1hPMjlUMVVydFltT3FoaUhvMFBWOGxXX09zaDdZRjNDRzZTNTYxUXVCbkJ4SHlTWDZjX1ZhVzJ1Y2QtSkN2NVgtQmRQbEtLa19POVF2dVZFcm82M0hoU3BZeVlMd0l3b29taG56ZFhUdktHUThmdEdBYzFuaXpCTTJ6eTlVaGtweG44QXFJbW1adUR1eWVOMFNZSHRoMHNCam1kVHpSZFc4Y1FRMjA?oc=5
-
-#NepalBreaking #NepalNews #Nepal 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 4  |  Nepal Economy & Remittance (Google News)  |  May 28 15:15 NPT
-
-दीपक भट्टको अनुसन्धानमा प्रहरीले ५६ लगानीकर्ताको शेयर फ्रिज गर्यो
-
-नेपाल प्रहरीले दीपक भट्ट बारेमा अनुसन्धान सुरु गर्दै ५६ लगानीकर्ताको शेयर फ्रिज गरेको छ। यो कदमले लगानीकर्ताहरूलाई आफ्नो होल्डिङ बेच्न वा हस्तान्तरण गर्न रोकेको छ। यसको अर्थ ५६ परिवार आफ्नो लगानीमा आर्थिक संकट आएको छ र स्कूल फीस, औषधी खर्च वा व्यापारिक जिम्मेवारी निर्वाह गर्न नसक्ने अवस्थामा परेका छन्।
+काठमाडौंको मुस्लिम समुदायले बलिदानको ईद अल-अधा पर्व मनायो। यो पर्व पैगम्बर इब्राहिमले आफ्नो छोरालाई अल्लाहलाई बलि दिने इच्छा प्रकट गरेको घटनालाई सम्झन मनाइन्छ। काठमाडौंका विभिन्न मस्जिद र प्रार्थना स्थलमा परिवारहरूले सामूहिक प्रार्थना गरे र एक-अर्कालाई बधाइ दिई भोजन साझा गरे।
 
 —
 
-Police Freeze 56 Investors' Shares in Deepak Bhatt Probe
+Muslims Across Kathmandu Mark Eid Al-Adha With Prayer and Feast
 
-Nepal Police has launched an investigation into Deepak Bhatt and frozen the shares of 56 investors connected to him, blocking their ability to sell or transfer holdings. The action mirrors previous asset seizures in high-profile fraud cases, signaling police are treating this as a financial crime requiring immediate restraint of evidence. Affected investors cannot access liquidity from their frozen portfolios, and any pending trades remain suspended pending the investigation's outcome. This matters because 56 families who invested money expecting returns now cannot liquidate those assets to pay school fees, medical bills, or business expenses.
+Kathmandu's Muslim community gathered to observe Eid Al-Adha, the Islamic festival of sacrifice that marks the willingness of Prophet Ibrahim to offer his son. The celebration reflects Nepal's religious diversity in a Hindu-majority nation where Islam is practiced by a minority but visible in the capital's social fabric. Families shared meals, exchanged greetings, and participated in communal prayers at mosques and prayer grounds across the city.
 
-https://news.google.com/rss/articles/CBMiggFBVV95cUxQdWFFVGk2NzhKTzdVMllrYllBV2dsd085azRSbWEzRjVWN3JGcnh2clptRUs2US1ROFBBWEJvcnhKSFdDdXFxd3Rfek1Ca3dqSkxuSzJVdnB5enJ3WHJDc0NhZkNOSjh2bEd5Vk5QclVyM2MxdzF5aHdMQ0diOUFHeEhn?oc=5
+https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMnNrbUFLbXlSNkJITkNyQ0VSTVFPenFHcTFhZERyTzF5dmYtQVpUR0dGdlBqM3JPeERmbmlPQ2ZoSW9qSXJ6MVZQU3RkNC1mTm1melEtWmIwNmNUbDV6R2tuYWZ6X2tkNWtiM254VUY5aDY0VU5JYTVud2laUHBaRkRiZFJ0NkZQRk51ZWlwdWVDUEpBdWJpRVJhR0lST3pLTzZ5YzFkV0hKN200Qzg2OG00RXcwZENKSEROaEw1bWp1aTN1Q2hKcFpLZmcwVlNNTFhkV3RpYw?oc=5
 
-@OPMCMNP
-#NepalPolitics #NepalPulse 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 5  |  Nepal Tech & Fintech (Google News)  |  May 28 14:33 NPT
-
-Nepal and Switzerland Deepen Ties in Fifth Kathmandu Consultation
-
-Nepal and Switzerland held their fifth bilateral consultation meeting in Kathmandu, marking a continuation of diplomatic engagement between the two nations. The meeting focused on strengthening cooperation across trade, development, and people-to-people exchange. For Kathmandu residents, closer Switzerland ties could mean more investment in tourism, education partnerships, and remittance stability from Swiss employers.
-
-नेपाल र स्विट्जरल्यान्डले काठमाडौंमा पाँचौँ द्विपक्षीय परामर्श बैठक आयोजन गरे। यो बैठकले व्यापार, विकास र जनसम्पर्क क्षेत्रमा दुवै देशबीचको सहयोग गहिराउने कुरामा केन्द्रित थियो। काठमाडौंका बासिन्दालाई स्विट्जरल्यान्डसँगको मजबुत सम्बन्धबाट पर्यटन, शिक्षा साझेदारी र स्विस नियोगकर्ताहरूबाट विप्रेषणको स्थिरता बढ्नसक्छ।
-
-यस आर्थिक खबरले तपाईंको दैनिक जीवनमा कस्तो असर पार्छ? 💬
-
-https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VaDZKaVd0VlFWR08zMGljQ0kyUFVmd21saGVHZzJ1SzQ5S2hZYnpVYnZQVFpnV3lCZlJJbVZEOXZkR3pUWUM2dEpqdFJyMGlMS0hYV05Pa0U?oc=5
-
-#NepalBreaking #Nepal 🇳🇵
+#NepalBreaking #Nepal #नेपाल 🇳🇵
 
 ────────────────────────────────────────────────────────────────
 
-── POST 6  |  Nepal Tech & Fintech (Google News)  |  May 28 13:09 NPT
+── POST 3  |  Nepal Tech & Fintech (Google News)  |  May 28 10:55 NPT
 
-Pathao Nepal Launches Helicopter Booking Service Called Pathao Heli
+नेपाल राष्ट्र बैंकले कर्जा नियम कडा गर्‍यो, बैंकहरू अनुपालन गर्न सक्छन् कि भन्ने परीक्षा
 
-Pathao Nepal, the ride-hailing company, has launched Pathao Heli, a helicopter booking service for urban users. The move expands Pathao's transport offerings beyond cars and motorcycles into premium air travel. Urban Kathmandu residents and business travelers now have helicopter transport as an on-demand option.
+नेपाल राष्ट्र बैंकले बैंकिङ क्षेत्रमा कर्जा, पूँजी आवश्यकता र जोखिम व्यवस्थापनका कठोर नियम लागू गर्‍यो। यससँग बैंकहरूले अनुपालन खर्च वा नाफामध्ये एक छनोट गर्न बाध्य भएका छन्। विगतमा यस्ता नियामक परिवर्तनले क्रेडिट संकट निम्त्याएको थियो जसले साना व्यवसायीहरूलाई काम गर्ने पूँजीबाट वञ्चित गरिसकेको छ। बैंकहरूले अब कर्जा दरहरू बढाउन वा योग्यता कठोर गर्न सक्छन्, जसले व्यापारी, किसान र साना निर्माताहरूलाई सस्तो कर्जाबाट अलग राख्नेछ। यो महत्त्वपूर्ण छ किनभने साना दोकान विस्तार गर्न वा बीउ खरिद गर्न कर्जा चाहिने साधारण नेपालीहरूले अब उच्च दर वा सीधै अस्वीकार सामना गर्नेछन्, र आर्थिक वृद्धि ढिलो हुँदा हरेक क्षेत्रमा रोजगारी घट र तलब स्थिर हुनेछ।
 
-राइड-हेलिङ कम्पनी पाथाओ नेपालले शहरी यात्रुहरूका लागि हेलिकप्टर बुकिङ सेवा 'पाथाओ हेली' सुरु गर्‍यो। यसले पाथाओको परिवहन सेवा कार र मोटरसाइकलदेखि प्रिमियम हवाई यात्रामा विस्तार गरेको छ। काठमाडौँका शहरी यात्री र व्यवसायी गरी अब माग अनुसार हेलिकप्टर सेवा लिन सक्दछन्।
+—
 
-https://news.google.com/rss/articles/CBMingFBVV95cUxOZUZSY1d1ODllOG1oZmRaZW1vR0J0SzJKdjYtVHJDYWRCNjlVQ1JCOXpnZEwxSEdyWC1fVW02c1dfWVJwRTlNMnkybGtyb2w2al80aUZWeTdxckpac0pnYkR4dk11TDFUdWQtOUVzM0tHT1QzcFlveV9LOEo2YTI2dmlYZmlsa2ZJdjhQOF9QalprdERuOGh1NnJ6QVZiZw?oc=5
+Nepal Rastra Bank Tightens Rules, Testing Whether Banks Can Actually Comply
 
-#NepalBreaking #NepalNews #Nepal 🇳🇵
+Nepal Rastra Bank is pushing stricter regulations on lending, capital requirements, and risk management across the banking system, forcing lenders to choose between compliance costs and profit margins. This echoes past cycles where sudden regulatory shifts have triggered credit crunches that starved small businesses of working capital. Banks will likely raise loan interest rates or tighten eligibility, pricing out traders, farmers, and small manufacturers who depend on affordable credit. This matters because ordinary Nepalis who need loans to expand a shop or buy seed will face higher rates or outright rejection—and slower economic growth ripples back to job losses and wage stagnation in every sector.
 
-────────────────────────────────────────────────────────────────
+https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaERoU3RqaUlFZEt6OXMzSlpKTmlpd0pNRlBad1Y4Z1h3d3VuOV9LNFRhZkRzNS1PWklJekRpNUh0Z1ktLUYyVWt4Wi1RU19RVmhOZHBsU0NYWXB0Q095VXZGMklwdE5mbXJ4YkdhY3ZzYWVHTzBtZWRjWmFVS1ZwMmxhaEhuN0dGQzRsaGJJNW0xXzdUM0xYWVUwZUN5b1pzU3d6MjVBRE15OWttazR2VlRqS0VuMHlIQUZVUVcxT2N1RVpINnYtcEVMSUUwYjRiSTVkaG5YNm9BMEV0?oc=5
 
-── POST 7  |  Nepal Tech & Fintech (Google News)  |  May 28 12:17 NPT
-
-UNESCO Backs Nepal's Push to Make Internet Truly Multilingual
-
-UNESCO has thrown its weight behind Nepal's effort to build an internet where Nepali, Maithili, Bhojpuri, and other local languages thrive alongside English. The recognition signals that Nepal's digital future doesn't have to be English-only—a watershed moment for the millions who speak Nepal's dozens of languages. Making this real means investment in Nepali keyboard software, translation tools, and content creation in regional languages. For ordinary Nepalis, it means your mother tongue online becomes not a luxury but a natural choice.
-
-युनेस्कोले नेपाली, मैथिली, भोजपुरी र अन्य स्थानीय भाषालाई इन्टरनेटमा विकसित गर्ने नेपालको प्रयासलाई समर्थन गरेको छ। यसको अर्थ नेपालको अनलाइन भविष्य अंग्रेजी मात्रमा सीमित हुनु आवश्यक छैन र लाखौँ नेपालीले आफ्नो मातृभाषा प्रयोग गर्न सक्नेछन्। यो वास्तवमा सफल हुन नेपाली किबोर्ड सफ्टवेयर, अनुवाद उपकरण र क्षेत्रीय भाषाहरूमा सामग्री सृष्टिमा लगानी आवश्यक छ।
-
-https://news.google.com/rss/articles/CBMijwFBVV95cUxOa0did0E4cGlvUlpBR1Y4Q3U4U0NneVROVGFIbXJmQ2RBcmVselV3RmYyUERDV0JTdjMzekdUeXZYeGthejFZRVN4MlZkMEk5NXFveURsREFfUmlWbUhwWjAtREN4MWE1RGZFS2MxWUh0azN5THI0d2dxdER3aVIzdkpCLXBET0RJMEZZTTU5RQ?oc=5
-
-#NepalBreaking #Nepal 🇳🇵
+@NRB.CentralBank
+#NepalEconomy #NepalNews #Nepal 🇳🇵
 
 ────────────────────────────────────────────────────────────────
 
-── POST 8  |  Nepal Economy & Remittance (Google News)  |  May 28 12:16 NPT
+── POST 5  |  Nepal Economy & Remittance (Google News)  |  May 28 08:53 NPT
 
-Government pumps 13 percent more into state firms but gets less back
+Laxmi Sunrise Bank Lands $25m Loan for Nepal's Small Businesses
 
-The government increased investment in public enterprises by 13 percent this fiscal year, yet dividend returns from these companies fell sharply. State-owned firms are absorbing more taxpayer money while generating weaker financial returns, a signal of declining operational efficiency across Nepal's public sector. For ordinary Nepalis, this means fewer rupees flowing back to fund schools, hospitals, and roads.
+Laxmi Sunrise Bank has secured a $25 million loan to expand lending to micro, small, and medium enterprises across Nepal. The capital injection directly increases the bank's firepower to back entrepreneurs who struggle to find affordable credit. For Kathmandu's shop owners, factory operators, and traders, this means faster loan approvals and potentially lower interest rates on working capital.
 
-सरकारले यो आर्थिक वर्षमा सार्वजनिक उद्यमहरूमा १३ प्रतिशत अधिक लगानी गर्‍यो, तर यी कम्पनीबाटको लाभांश आय तीव्रगतिले घटेको छ। राजकीय फर्महरूले करदाताको अरबौँ रुपैयाँ खपत गर्दैछन् तर आर्थिक रिटर्न कमजोर छ। यसको मतलब स्वास्थ्य, शिक्षा र सडक निर्माणमा दिनसक्ने सरकारी रकम अब धेरै खुल्ला आकाशमा हराइरहेको छ।
+लक्ष्मी सनराइज बैंकले सूक्ष्म, लघु र मझोली उद्यमलाई ऋण विस्तार गर्न पच्चीस करोड USD (नेपाली रुपैयाँमा रु. ३.३४ अर्ब) कर्जा सुरक्षित गर्‍यो। यो पूँजी इञ्जेक्सनले बैंकको साधनमा वृद्धि गरेको छ र किसिम किसिमको साश्रय ऋण खोज्ने उद्यमीलाई समर्थन गर्न सक्छ। काठमाडौँका पसल व्यवसायी, कारखानाका संचालक र व्यापारीलाई यसको अर्थ चल्ने पूँजीको लागि छिटो कर्जा स्वीकृति र सम्भवत् कम ब्याज दरहरू हुन्छ।
 
-https://news.google.com/rss/articles/CBMiywFBVV95cUxOeGszV2hPU0ZTVmF4ekRpTHNURF96WTE3WnNTMlhyX1EwTlJ1eFdxOWdDRWo5aTZ0OGVJTGVGWGFTQ21TQXdpY2kwVGR4R1BSYjFtZEdEQWdvd2VOSzJYZUh4YVdmczc4bXpjanNFejlYMjFUczdqWWNRSmNwUGtOWXotdE44ODZwOHk5cU5hQmJiYTBmWXBiTDNCQy14SjkwV254SUZBZnBTLUFfVlk5Wl9Ud0V5ajBoUzA0WVEzcmJoZDZ4dnhZNEdmNA?oc=5
+https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkNnaWZ4X0pYME9lc1NMa0NVUkVhclVjRWRjVG1UZTBncUlSVUJUd3E0S0FMSnNkbjFrMTExNTJ5SG1vcXk4X0w3WjRCemNMQ2k1TTFoVFJKaFRVMDEyY1pjOXZLdWhoMENLVEFOVEYzME1reGVXZ09Gbm9jemRtUTJNMUdiNWtKUkFUS2ZVZVlQaGtjSVN6ZnpYRHNDSW9VWXdRa2hraTBSaVN4?oc=5
+
+#NepalBreaking #NepalPulse #Nepal 🇳🇵
+
+────────────────────────────────────────────────────────────────
+
+── POST 8  |  Nepal Tech & Fintech (Google News)  |  May 28 07:22 NPT
+
+Government Declares Digital Transformation Top Priority for Nepal Economy
+
+Nepal's government has identified digital transformation as a core economic priority, signaling a shift toward tech-driven development across public services and commerce. This move affects every Kathmandu resident who interacts with government offices, banks, and businesses—from passport applications to utility payments. The push means slower systems you use today will likely move online in coming months, so learning digital payment platforms and online portals now will save you time and frustration.
+
+नेपालको सरकारले डिजिटल रूपान्तरणलाई अर्थतन्त्रको मूल प्राथमिकता तोकेको छ। सरकारी कार्यालय, बैंक र व्यापारमा प्रविधि आधारित विकास गर्ने यो निर्णयले काठमाडौँका सबै बासिन्दालाई असर गर्दछ। पासपोर्ट आवेदन देखि उपयोगिता भुक्तानीसम्म आजका ढिलो प्रणाली आगामी महिनामा अनलाइन हुनसक्छन्, त्यसैले अब नै डिजिटल भुक्तानी र अनलाइन पोर्टल सिख्नु समयको बचत र झामेझमकबाट मुक्ति दिने छ।
+
+यस घटनाले नेपालको राजनीतिमा के प्रभाव पार्छ जस्तो लाग्छ? 💬
+
+https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Rc3RzZ3VPT0VVM0pSbFVDMFlxN1RkcWZkZUR4LUktSWVJMWFoeE9SZXgzTzRGa004QTZhRTdTcUgxdWhqZXlqS203dGVUN3Jo?oc=5
 
 #NepalBreaking #Nepal #नेपाल 🇳🇵
 
