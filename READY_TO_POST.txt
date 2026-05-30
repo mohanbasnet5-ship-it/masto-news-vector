@@ -1,5 +1,5 @@
 READY TO POST — NepalPulse
-Updated: 2026-05-29 06:02 NPT
+Updated: 2026-05-30 03:26 NPT
 8 articles ready
 ════════════════════════════════════════════════════════════════
 
@@ -8,87 +8,4 @@ After posting, run: python3 nepalpulse/mark_posted.py <number>
 
 ════════════════════════════════════════════════════════════════
 
-── POST 1  |  Nepal Tech & Fintech (Google News)  |  May 29 00:45 NPT
 
-हुवावेले नेपाली दूरसञ्चार अपरेटरलाई AI र ५G समाधान प्रस्तुत गर्‍यो
-
-हुवावे नेपालले Mini MWC २०२६ शिखर सम्मेलनमा दूरसञ्चार अपरेटरलाई कृत्रिम बुद्धिमत्ता र ५G आधारित संजाल समाधान प्रदर्शन गर्‍यो। नेपाली अपरेटरहरू भारतीय र चिनियाँ विकल्पहरूसँग प्रतिस्पर्धा गर्न संजाल आधुनिकीकरण गर्न दबाबमा छन्। हुवावेको यो प्रविधि अपनाउने अपरेटरहरू तीव्र इन्टरनेट गति र सस्तो सेवा दिएर ग्राहकहरूका लागि लाभदायक हुनेछन्।
-
-—
-
-Huawei Nepal Hosts Mini MWC 2026 Summit With Local Telecom Operators
-
-Huawei Nepal convened telecom operators at Mini MWC 2026 to showcase infrastructure and AI-driven connectivity solutions aligned with the company's 'Age of All Intelligence' framework. The event signals Huawei's deepening partnership with Nepal's telecom sector as operators face pressure to upgrade networks competing with Indian and Chinese alternatives. Operators who adopt Huawei's AI and 5G technology will position themselves ahead of rivals betting on older infrastructure, directly affecting network speeds and pricing for customers.
-
-https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zT1ZUX1cwSm4zZTJibGZNRUJ6ZXRhNFB5ZjBYX3hCWEo3dGpabzZDd2d5bUVFVnI4dmVGV1RvelNTNVdfUmJxMjVTaE1DcC1FY0p1WjgxNXZiRE9sSk5Odw?oc=5
-
-#NepalBreaking #NepalPulse #Nepal 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 2  |  Nepal Tech & Fintech (Google News)  |  May 28 13:35 NPT
-
-काठमाडौंमा मुस्लिम समुदायले ईद अल-अधा मनाए
-
-काठमाडौंको मुस्लिम समुदायले बलिदानको ईद अल-अधा पर्व मनायो। यो पर्व पैगम्बर इब्राहिमले आफ्नो छोरालाई अल्लाहलाई बलि दिने इच्छा प्रकट गरेको घटनालाई सम्झन मनाइन्छ। काठमाडौंका विभिन्न मस्जिद र प्रार्थना स्थलमा परिवारहरूले सामूहिक प्रार्थना गरे र एक-अर्कालाई बधाइ दिई भोजन साझा गरे।
-
-—
-
-Muslims Across Kathmandu Mark Eid Al-Adha With Prayer and Feast
-
-Kathmandu's Muslim community gathered to observe Eid Al-Adha, the Islamic festival of sacrifice that marks the willingness of Prophet Ibrahim to offer his son. The celebration reflects Nepal's religious diversity in a Hindu-majority nation where Islam is practiced by a minority but visible in the capital's social fabric. Families shared meals, exchanged greetings, and participated in communal prayers at mosques and prayer grounds across the city.
-
-https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMnNrbUFLbXlSNkJITkNyQ0VSTVFPenFHcTFhZERyTzF5dmYtQVpUR0dGdlBqM3JPeERmbmlPQ2ZoSW9qSXJ6MVZQU3RkNC1mTm1melEtWmIwNmNUbDV6R2tuYWZ6X2tkNWtiM254VUY5aDY0VU5JYTVud2laUHBaRkRiZFJ0NkZQRk51ZWlwdWVDUEpBdWJpRVJhR0lST3pLTzZ5YzFkV0hKN200Qzg2OG00RXcwZENKSEROaEw1bWp1aTN1Q2hKcFpLZmcwVlNNTFhkV3RpYw?oc=5
-
-#NepalBreaking #Nepal #नेपाल 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 3  |  Nepal Tech & Fintech (Google News)  |  May 28 10:55 NPT
-
-नेपाल राष्ट्र बैंकले कर्जा नियम कडा गर्‍यो, बैंकहरू अनुपालन गर्न सक्छन् कि भन्ने परीक्षा
-
-नेपाल राष्ट्र बैंकले बैंकिङ क्षेत्रमा कर्जा, पूँजी आवश्यकता र जोखिम व्यवस्थापनका कठोर नियम लागू गर्‍यो। यससँग बैंकहरूले अनुपालन खर्च वा नाफामध्ये एक छनोट गर्न बाध्य भएका छन्। विगतमा यस्ता नियामक परिवर्तनले क्रेडिट संकट निम्त्याएको थियो जसले साना व्यवसायीहरूलाई काम गर्ने पूँजीबाट वञ्चित गरिसकेको छ। बैंकहरूले अब कर्जा दरहरू बढाउन वा योग्यता कठोर गर्न सक्छन्, जसले व्यापारी, किसान र साना निर्माताहरूलाई सस्तो कर्जाबाट अलग राख्नेछ। यो महत्त्वपूर्ण छ किनभने साना दोकान विस्तार गर्न वा बीउ खरिद गर्न कर्जा चाहिने साधारण नेपालीहरूले अब उच्च दर वा सीधै अस्वीकार सामना गर्नेछन्, र आर्थिक वृद्धि ढिलो हुँदा हरेक क्षेत्रमा रोजगारी घट र तलब स्थिर हुनेछ।
-
-—
-
-Nepal Rastra Bank Tightens Rules, Testing Whether Banks Can Actually Comply
-
-Nepal Rastra Bank is pushing stricter regulations on lending, capital requirements, and risk management across the banking system, forcing lenders to choose between compliance costs and profit margins. This echoes past cycles where sudden regulatory shifts have triggered credit crunches that starved small businesses of working capital. Banks will likely raise loan interest rates or tighten eligibility, pricing out traders, farmers, and small manufacturers who depend on affordable credit. This matters because ordinary Nepalis who need loans to expand a shop or buy seed will face higher rates or outright rejection—and slower economic growth ripples back to job losses and wage stagnation in every sector.
-
-https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaERoU3RqaUlFZEt6OXMzSlpKTmlpd0pNRlBad1Y4Z1h3d3VuOV9LNFRhZkRzNS1PWklJekRpNUh0Z1ktLUYyVWt4Wi1RU19RVmhOZHBsU0NYWXB0Q095VXZGMklwdE5mbXJ4YkdhY3ZzYWVHTzBtZWRjWmFVS1ZwMmxhaEhuN0dGQzRsaGJJNW0xXzdUM0xYWVUwZUN5b1pzU3d6MjVBRE15OWttazR2VlRqS0VuMHlIQUZVUVcxT2N1RVpINnYtcEVMSUUwYjRiSTVkaG5YNm9BMEV0?oc=5
-
-@NRB.CentralBank
-#NepalEconomy #NepalNews #Nepal 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 5  |  Nepal Economy & Remittance (Google News)  |  May 28 08:53 NPT
-
-Laxmi Sunrise Bank Lands $25m Loan for Nepal's Small Businesses
-
-Laxmi Sunrise Bank has secured a $25 million loan to expand lending to micro, small, and medium enterprises across Nepal. The capital injection directly increases the bank's firepower to back entrepreneurs who struggle to find affordable credit. For Kathmandu's shop owners, factory operators, and traders, this means faster loan approvals and potentially lower interest rates on working capital.
-
-लक्ष्मी सनराइज बैंकले सूक्ष्म, लघु र मझोली उद्यमलाई ऋण विस्तार गर्न पच्चीस करोड USD (नेपाली रुपैयाँमा रु. ३.३४ अर्ब) कर्जा सुरक्षित गर्‍यो। यो पूँजी इञ्जेक्सनले बैंकको साधनमा वृद्धि गरेको छ र किसिम किसिमको साश्रय ऋण खोज्ने उद्यमीलाई समर्थन गर्न सक्छ। काठमाडौँका पसल व्यवसायी, कारखानाका संचालक र व्यापारीलाई यसको अर्थ चल्ने पूँजीको लागि छिटो कर्जा स्वीकृति र सम्भवत् कम ब्याज दरहरू हुन्छ।
-
-https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkNnaWZ4X0pYME9lc1NMa0NVUkVhclVjRWRjVG1UZTBncUlSVUJUd3E0S0FMSnNkbjFrMTExNTJ5SG1vcXk4X0w3WjRCemNMQ2k1TTFoVFJKaFRVMDEyY1pjOXZLdWhoMENLVEFOVEYzME1reGVXZ09Gbm9jemRtUTJNMUdiNWtKUkFUS2ZVZVlQaGtjSVN6ZnpYRHNDSW9VWXdRa2hraTBSaVN4?oc=5
-
-#NepalBreaking #NepalPulse #Nepal 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 8  |  Nepal Tech & Fintech (Google News)  |  May 28 07:22 NPT
-
-Government Declares Digital Transformation Top Priority for Nepal Economy
-
-Nepal's government has identified digital transformation as a core economic priority, signaling a shift toward tech-driven development across public services and commerce. This move affects every Kathmandu resident who interacts with government offices, banks, and businesses—from passport applications to utility payments. The push means slower systems you use today will likely move online in coming months, so learning digital payment platforms and online portals now will save you time and frustration.
-
-नेपालको सरकारले डिजिटल रूपान्तरणलाई अर्थतन्त्रको मूल प्राथमिकता तोकेको छ। सरकारी कार्यालय, बैंक र व्यापारमा प्रविधि आधारित विकास गर्ने यो निर्णयले काठमाडौँका सबै बासिन्दालाई असर गर्दछ। पासपोर्ट आवेदन देखि उपयोगिता भुक्तानीसम्म आजका ढिलो प्रणाली आगामी महिनामा अनलाइन हुनसक्छन्, त्यसैले अब नै डिजिटल भुक्तानी र अनलाइन पोर्टल सिख्नु समयको बचत र झामेझमकबाट मुक्ति दिने छ।
-
-यस घटनाले नेपालको राजनीतिमा के प्रभाव पार्छ जस्तो लाग्छ? 💬
-
-https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Rc3RzZ3VPT0VVM0pSbFVDMFlxN1RkcWZkZUR4LUktSWVJMWFoeE9SZXgzTzRGa004QTZhRTdTcUgxdWhqZXlqS203dGVUN3Jo?oc=5
-
-#NepalBreaking #Nepal #नेपाल 🇳🇵
-
-────────────────────────────────────────────────────────────────
