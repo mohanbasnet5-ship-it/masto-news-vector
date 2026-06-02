@@ -1,6 +1,6 @@
 READY TO POST — NepalPulse
-Updated: 2026-06-01 06:01 NPT
-8 articles ready
+Updated: 2026-06-02 05:52 NPT
+6 articles ready
 ════════════════════════════════════════════════════════════════
 
 Copy any post below and paste into Facebook.
@@ -8,105 +8,70 @@ After posting, run: python3 nepalpulse/mark_posted.py <number>
 
 ════════════════════════════════════════════════════════════════
 
-── POST 2  |  Nepal Economy & Remittance (Google News)  |  Jun 01 01:23 NPT
+── POST 1  |  The Sentinel Assam  |  Jun 01 08:16 NPT
 
-नेपाल पर्यटन बोर्डले चिनियाँ अपरेटरलाई वेलनेस र ट्रेकिङ पिच गर्यो
+PM Shah Commits to Resolving India Border Dispute Through Dialogue
 
-नेपाल पर्यटन बोर्डले ITB China २०२६ मा चिनियाँ ट्रावेल अपरेटर र एजेन्टलाई साहस, सांस्कृतिक र वेलनेस पर्यटन सिधै पिच गरिरहेको छ। यो कदम वर्ष भर अगाडि नेतृत्व परिवर्तनपछि नेपालको पर्यटन रणनीति पुनः स्थापनको संकेत दिन्छ र आगन्तुकको संख्या बढी नभई गुणस्तरमा केन्द्रित भएको रणनीति देखाउँछ। चिनियाँ पर्यटकले औसत आगन्तुकभन्दा प्रति यात्रामा धेरै खर्च गर्दछन्, त्यसैले उनीहरूलाई आकृष्ट गर्नु भनेको पहाडी लज, कुली र गाइडले आगन्तुक संख्या दोब्बर नगरेपनि स्थिर आय अर्जन गर्न सक्ने भन्ने अर्थ हो।
+Prime Minister Balendra Shah told Parliament on Sunday that Nepal will settle its long-disputed border with India through negotiation and diplomacy, not unilateral claims. The commitment matters because Kathmandu and Delhi have clashed over three territories—Lipulekh, Limpiyadhura, and Kalapani—since Nepal's 2020 map revision, with India rejecting those claims as historically baseless. This matters because ordinary Nepalis in border districts like Darchula face uncertainty over land rights, trade routes, and which nation controls access to pilgrimage sites like Kailash Manasarovar, while families in Kathmandu worry how prolonged tension could affect jobs and cross-border commerce.
 
-—
-
-Nepal pitches wellness and trekking to Chinese tour operators at ITB 2026
-
-Nepal Tourism Board is using ITB China 2026 to pitch adventure, cultural, and wellness tourism directly to Chinese tour operators and travel agents. The move mirrors a broader reset of Nepal's tourism strategy after leadership changes earlier this year, signaling a shift toward higher-value bookings rather than volume. This matters because Chinese tourists spend more per trip than average visitors — attracting them means lodge owners, porters, and guides in the mountains earn steadier income without needing to double visitor numbers to stay afloat.
-
-https://news.google.com/rss/articles/CBMibkFVX3lxTE9pQmxnQ0VKVWNlb0pXYmM4b1k1SUdtVV8xRzdOUExEenZMTkRRVXhGTUFRckJIb0VacHZqOVV6Wm1vRTBjdWRyQUxCVlZYazVBTEJYRmEwbVctUUtwR3JGTmpzWVo1UTZqYVV1NWlR?oc=5
-
-@NRB.CentralBank
-#NepalEconomy #NepalPulse #Nepal 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 3  |  Nepal Economy & Remittance (Google News)  |  May 31 22:21 NPT
-
-Rabi Lamichhane Leads Nepal Delegation to India on June 1
-
-Home Minister Rabi Lamichhane will head a Nepali delegation traveling to India on June 1, marking a high-level bilateral engagement as Nepal and India navigate ongoing border tensions. The visit comes weeks after PM Prachanda committed to resolving border disputes through diplomatic dialogue rather than confrontation. Kathmandu residents should watch this trip closely—how these talks proceed will shape whether cross-border trade, mobility, and water-sharing agreements improve or stall in coming months.
-
-गृहमन्त्री रवि लामिछानेले नेपाली प्रतिनिधिमण्डलको नेतृत्व गरेर जुन १ मा भारत भ्रमण गर्नुहुनेछ। यो भ्रमण सीमा विवादलाई कूटनीतिक संवादमार्फत समाधान गर्ने प्रधानमन्त्री प्रचण्डको प्रतिबद्धता केही हप्ता पछि आएको हो। यो यात्रा सफल भएमा दुवै देशबीचको व्यापार, जनचलाचल र जलसाझेदारीको सम्झौता आगामी महिनामा सुधार हुनसक्छ।
+प्रधानमन्त्री बलेन्द्र शाहले आइतवार संसदमा नेपालले भारतसँगको विवादास्पद सीमा समस्या एकतर्फी दावीको सट्टा वार्ता र कूटनीतिमार्फत समाधान गर्नेछ भन्ने प्रतिबद्धता जनाएका छन्। नेपालले २०२० मा संशोधित गरेको नक्साअनुसार लिपुलेख, लिम्पियाधुरा र कालापानी गरी तीन क्षेत्रको दावी गरेपछि भारतले ती दावीलाई ऐतिहासिक रूपमा आधारहीन भनी अस्वीकार गरेको छ। दार्चुला जस्ता सीमाबर्तী जिल्लामा बस्ने आम नेपालीले जमिनको अधिकार, व्यापार मार्ग र कैलाश मानसरोवर जस्ता तीर्थस्थलमा कुन देशको नियन्त्रण हुनेछ भन्नेबारेमा अनिश्चितता सहन गर्दैछन्।
 
 यस घटनाले नेपालको राजनीतिमा के प्रभाव पार्छ जस्तो लाग्छ? 💬
 
-https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY1NyV25sSWRiNHFJYlhWcE8tT2tlWTUzTGp0SGNjRHNLRmlfZjVrZDhqeVdka253ZVRXalFwWjJZa2ZqaXBzbFNsNWd6UHNkYU9uakhiOFV2U21ieVRoV2I3czgyM05sZTJFRmxVVWdoY3ZRRXhsd1ZDaTREQkZkUGxuNHVpUjNEcTFfYy1JcUJCM0V5RlhlYWd6bDllejVEczd5SXdCc0EyaFNuZWs5dE9YcWtFNURy?oc=5
+https://www.sentinelassam.com/topheadlines/border-issue-with-india-will-be-resolved-through-talks-nepal-pm
+
+@OPMCMNP
+#NepalPolitics #Nepal #नेपाल 🇳🇵
+
+────────────────────────────────────────────────────────────────
+
+── POST 2  |  Nepal Economy & Remittance (Google News)  |  Jun 02 05:33 NPT
+
+पश्चिम सेती ४०० किलोभोल्ट लाइनमा सरकारले निजी साझेदारी अपनायो
+
+नेपाल सरकारले पश्चिम सेती ४०० किलोभोल्ट प्रसारण लाइन निर्माणका लागि सार्वजनिक-निजी साझेदारी मडेल अपनाएको छ। सरकारले सीधा लगानीको सट्टा यो अवसर निजी विकासकर्मालाई दिएको हो। ऊर्जा क्षेत्रमा नेपालका अन्य PPP परियोजना जस्तै काठमाडौँ-हेटौँडा ४०० किलोभोल्ट लाइन विलम्ब र खर्च बढ्नको समस्यामा परेका छन्। सरकारको रोकडको अभाव र ग्रिड क्षमता बढाउने जरुरतको बीचमा यो कदम निजी दक्षताको भरमा छ।
+
+—
+
+Nepal taps private partners to build 400 kV West Seti power line
+
+Nepal will construct the 400 kV West Seti transmission line using a public-private partnership model instead of direct government investment, shifting infrastructure risk to private developers. PPP projects in Nepal's energy sector have faced delays and cost overruns, most recently with the Kathmandu-Hetauda 400 kV line. This move signals the government's cash constraints while betting on private efficiency to deliver electricity capacity the grid urgently needs as demand rises.
+
+https://news.google.com/rss/articles/CBMiUEFVX3lxTFBacjBKZENVQXpBeFhBc2wxNlZXb3BRc1ZWcVRGX0tBa2RmajNEUlJMbnlQM0M0dy1WZWp1Y25haTZleHNyeVEzVGI1QTVfbjJU?oc=5
+
+#NepalBreaking #NepalPulse 🇳🇵
+
+────────────────────────────────────────────────────────────────
+
+── POST 5  |  Times of India  |  Jun 01 13:48 NPT
+
+प्रधानमन्त्री शाहले संसदमा उठाए काठमाडौंको सीमा विवाद
+
+प्रधानमन्त्री बलेन्द्र शाहले संसदलाई भनेका छन् कि नेपालले भारतलाई लिपुलेख, कालापानी र लिम्पियाढुरामा भेदमूलक अतिक्रमणको औपचारिक सूचना दिएको छ। सन् १८१६ को सन्धि कालीनदीको सुरुवातलाई स्पष्ट गरेको छैन किनभने नेपाल दावी गर्छ कि नदीको स्रोत लिम्पियाढुरामा छ तर भारत कालापानी नजिकै रहेको बताउँछ। दुवै देशले इतिहासविद् र राजनयिकहरूका माध्यमबाट यो समस्या समाधान गर्ने सहमति गरेका छन्। यो महत्त्वपूर्ण छ किनभने यदि नेपाल यो राजनयिक प्रयासमा सफल भयो भने चिनको सीमानजिकको यो रणनीतिक क्षेत्रमाथि नियन्त्रण परिवर्तन हुन सक्छ र यससँग सीमावर्ती समुदायका लागि घाँस चर्ने अधिकार, सैन्य स्थिति तथा स्रोत उपयोग प्रभावित हुन सक्छ।
+
+—
+
+Nepal PM Reignites Border Fight: Kalapani, Lipulekh Dispute Back on Table
+
+Prime Minister Balendra Shah told Parliament that Nepal has formally notified India of territorial encroachments in Lipulekh, Kalapani, and Limpiyadhura—a decades-old dispute rooted in an 1816 treaty that never clearly defined where the Kali River begins. Nepal argues the river's source sits at Limpiyadhura, placing the disputed Himalayan region inside Nepal; India claims it starts near Kalapani, on their side. Both nations agreed to resolve this through historians and diplomats, but Shah's public statement forced Nepal's foreign ministry to clarify it was not a formal territorial claim. This matters because if Nepal succeeds in this diplomatic push, control of this strategically vital tri-border zone near China could shift, affecting grazing rights, military positioning, and resource access for herders and border communities who live in the shadow of this dispute.
+
+https://timesofindia.indiatimes.com/india/nepal-pm-balendra-shahs-encroaching-india-remark-sparks-row-what-is-the-border-dispute-about/articleshow/131437565.cms
+
+@MOFANEPAL @IndiaInNepal
+#NepalIndia #NepalPulse 🇳🇵
+
+────────────────────────────────────────────────────────────────
+
+── POST 6  |  Times of India  |  Jun 01 05:56 NPT
+
+Both Nations Encroaching on Each Other, PM Shah Tells Parliament
+
+Nepal PM Balendra Shah acknowledged Sunday that India and Nepal have both crossed into each other's territory, breaking new ground in public statements on the border dispute. Shah told Parliament that both governments agreed to form teams of historians, surveyors and experts to resolve the decades-old conflict through talks, and that he has already discussed the matter with India, China and the UK. The dispute has simmered since May when Nepal objected to India resuming the Kailash Mansarovar pilgrimage through the Lipulekh Pass that Kathmandu claims.
+
+प्रधानमन्त्री बलेन्द्र शाहले आइतवार संसदमा भारत र नेपाल दुवै देशले एकअर्काको भूमिमा प्रवेश गरेको कुरा स्वीकार गरे। सीमा विवाद समाधानका लागि दुवै सरकारले इतिहासविद्, सर्वेक्षक र विशेषज्ञको टोली बनाउन सहमति जनाएका छन्। शाहले यस विषयमा भारत, चिनियाँ र बेलायतसँग पहिले नै छलफल गरिसकेको जनाए।
+
+https://timesofindia.indiatimes.com/world/south-asia/nepal-india-encroaching-on-each-others-land-uk-must-step-in-pm-balen-shah/articleshow/131431456.cms
 
 #NepalBreaking #NepalNews #Nepal 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 5  |  Nepal Economy & Remittance (Google News)  |  May 31 18:34 NPT
-
-नेपाल टेलिकमको बिक्रयमा दाँव राखेर बजेट २०८२/०८३
-
-सरकारले नेपाल टेलिकमको शेयर बिक्रय गरेर र अनिवासी नेपालीको लगानी कडा गरेर आगामी वर्षको खर्च पूरै गर्ने योजना बनाएको छ। टेलिकमको बिक्रयले अकेलै महत्त्वपूर्ण राजस्व ल्याउने अपेक्षा गरिएको छ। यो महत्त्वपूर्ण छ किनभने साधारण नेपालीले नेपाल टेलिकमलाई फोन र इन्टरनेटका लागि आश्रय गर्दछन्, र अगम्य वा खराब संरचनाको बिक्रयले दर वृद्धि, ग्रामीण सेवामा कमी वा कम्पनीका १५,००० भन्दा बढी कर्मचारीमा बेरोजगारी ल्याउन सक्छ।
-
-—
-
-Budget 2026/27 Pins Growth on Nepal Telecom Sale and NRN Money
-
-The government is betting on selling Nepal Telecom shares and tightening rules for NRN investment to fund next year's spending plan—a shift from taxation toward asset liquidation. The telecom sale alone is expected to generate substantial revenue, following a pattern seen in other South Asian economies where state enterprises are privatized to cover budget gaps. This matters because ordinary Nepalis depend on Nepal Telecom for phone and internet services, and a rushed or poorly structured sale could lead to higher tariffs, worse rural coverage, or job losses among the company's 15,000-plus employees.
-
-https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVdXaVRXdXhzUzBLblpIM1NSY3lFOTJOVEZRYWlNV0hReFNnemRjQi16TFBWT1ljM0N2N0xLdXl5dFF4QjZ2S056QUdZZWlSbllsekE2a3FiTmw0Z0lBbVZxcGlNYllJRGhNUVpUWjY3Q25Ddmt0YW1pemNiUGtXUVIzLUk1Rm53Y09MNmt1TnNVR0xkZ0cyZld2OXRKZEZBSmtqaFFlckgxVldUTFE?oc=5
-
-@NRB.CentralBank
-#NepalEconomy #Nepal #नेपाल 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 6  |  Nepal Tech & Fintech (Google News)  |  May 31 18:21 NPT
-
-Nepal PM Accuses India of Encroaching on Disputed Border Land
-
-Nepal's Prime Minister publicly charged India with encroaching on Nepali territory, reigniting one of South Asia's most volatile border disputes. The comments target a long-standing disagreement over several enclaves and strategic mountain areas that both countries claim. This matters because border tensions can freeze trade with India—Nepal's largest import partner—which directly raises prices on essentials like fuel, cooking oil, and cement that ordinary families buy every week.
-
-नेपालका प्रधानमन्त्रीले भारतविरुद्ध नेपाली सीमामा अतिक्रमण गरेको आरोप लगाएका छन्। यो दक्षिण एशियाको सबैभन्दा संवेदनशील सीमा विवादको पुनः सक्रियता हो, जसमा दुवै देश केही बस्तीहरू र रणनीतिक पहाडी क्षेत्रमा दावी गर्दैछन्। सीमा तनाववले नेपाल-भारत व्यापार रोक्न सक्छ, जससँग नेपालको आयातको अधिकांश भाग आउँछ, र यसले ईंधन, खाना तेल र सिमेन्ट जस्ता आवश्यक वस्तुको मूल्य बढाएर सामान्य परिवारलाई असर गर्छ।
-
-https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVnNlSGhtamFrdUxRUHRRT2tNRmFHY096dmFwSzNobFg0OUF4b1VuX01SdTJUTGhJUjdJMjlrVDlqTnBKNmxKOWk3UUhhRWhNXzdSM3J3czcwZGk1VzJVVmlJV0xEYlplYjRPV0prcGM0VWttQjBqa3VZMEZBaVpkWHNURmdHVE00dnpGWWN6NmNZd0tmWDBSQ1Bxa1k1SkZJYXJvZkRuVGowcWw4N2d2Z0p2MmdCeUxVSlRBQ3VPakZNallZZURPYllsRFZkdzN4TDdEYzhacmtYbmsxZHpqX2cyaFRYeE1HR3ZzZEV4YTBQS2M?oc=5
-
-@OPMCMNP
-#NepalPolitics #NepalNews #Nepal 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 7  |  Nepal Tech & Fintech (Google News)  |  May 31 18:21 NPT
-
-Nepal PM's Land Claims Against India Spark Diplomatic Tension
-
-Nepal's Prime Minister publicly accused India of encroaching on Nepali territory, reopening a border dispute that has simmered for decades between the two countries. The statement risks straining ties with Nepal's largest neighbor and trade partner, on whom Kathmandu depends for essential goods and transit routes. This matters because ordinary Nepalis rely on open Indian borders for jobs, food imports, and medicine—any escalation could mean higher prices at markets, delayed shipments to shops, and fewer work permits for cross-border laborers.
-
-नेपालका प्रधानमन्त्रीले भारतले नेपाली क्षेत्रमा अतिक्रमण गरेको आरोप लगाएर दशकको सिमान्त विवाद फेरि खोलिदिएका छन्। यो वक्तव्यले नेपालको सबैभन्दा ठूलो पडोसी र व्यापार साथी भारतसँगको सम्बन्ध खराब हुन सक्छ। यो महत्त्वपूर्ण छ किनभने काठमाडौंले आवश्यक सामग्री, पारवहन र रोजगारीका लागि भारतीय सीमान्तमा निर्भर छ—कुनै पनि विवर्द्धनले बजारमा महँगीको खतरा, पसलमा सामान लम्बिने र सीमापार मजदुरहरूका लागि अनुमति कम हुन सक्छ।
-
-यस घटनाले नेपालको राजनीतिमा के प्रभाव पार्छ जस्तो लाग्छ? 💬
-
-https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVnNlSGhtamFrdUxRUHRRT2tNRmFHY096dmFwSzNobFg0OUF4b1VuX01SdTJUTGhJUjdJMjlrVDlqTnBKNmxKOWk3UUhhRWhNXzdSM3J3czcwZGk1VzJVVmlJV0xEYlplYjRPV0prcGM0VWttQjBqa3VZMEZBaVpkWHNURmdHVE00dnpGWWN6NmNZd0tmWDBSQ1Bxa1k1SkZJYXJvZkRuVGowcWw4N2d2Z0p2MmdCeUxVSlRBQ3VPakZNallZZURPYllsRFZkdzN4TDdEYzhacmtYbmsxZHpqX2cyaFRYeE1HR3ZzZEV4YTBQS2PSAfgBQVVfeXFMTnBJNW9jXzJFNWpuaElZOEgydlJRWGdXOXVnVGdieXlKUmF6WkFiZ3NWUXRZaVZVNFdmX0REX2JZOFJWOW5SWFk0WEVkbGtFbk05eU5NZWxPRU9HcmR4ZW8xbm5Ma09SenUydDk3aTJLT3VNTHdxSy1iSVMxQ2hnT0wwOHJrcDVDZXI0NGxYRklINHpNeWt6NExHaUo0LU9pYlppODBZTTdxTmRxeWt4REstdmRTSG9kRWNNVW51RTA4NHhOQTdlS0NvSE1LMFJpN3hiellQNTZrWWJpQUt1dmNxRjJOSy03Zkg2OTVIUGlyMG0yUWhXWHo?oc=5
-
-@OPMCMNP
-#NepalPolitics #NepalPulse 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 8  |  Nepal Economy & Remittance (Google News)  |  May 31 16:29 NPT
-
-Kathmandu Children Report Filthy Toilets, Online Abuse to Local Officials
-
-Children across Nepal are bringing concrete complaints directly to local government—from disgusting school toilets to cyberbullying on social media—forcing ward officials to act on issues adults often ignore. Kids in Kathmandu and other districts are naming specific problems: broken sanitation facilities that spread disease, online harassment that follows them home, and unsafe learning spaces. For families, this means local leaders now have to respond to pressure from children themselves, not just parent complaints. Watch whether your ward office actually fixes these toilets and creates cyber safety rules.
-
-नेपालका बालबालिकाले स्थानीय सरकारलाई सीधा गुनासो गरिरहेका छन्—भाँडिएका शौचालय, साइबर बुलिङ र असुरक्षित पढाइको परिवेश। काठमाडौंका बालबालिकाले रोग फैलाउने टुटेको ढल र सोशल मिडियामा उनीहरूलाई पछ्याइने उत्पीडनको विशेष समस्या नाम गरेका छन्। यसको मतलब स्थानीय अधिकारीले अब बालबालिकाको दबाबले नै शौचालय मरम्मत गर्न र साइबर सुरक्षा नियम बनाउन बाध्य हुनु पड़िरहेको छ।
-
-यस घटनाले नेपालको राजनीतिमा के प्रभाव पार्छ जस्तो लाग्छ? 💬
-
-https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XQWxqVnRQMGtGb3NXd1BWYWxQNklSazYwSW52bTA0OHlvWlppVmdvSF9aM2JfZ0RNVFhhdmYySDlteENtSnRQbzZ1WFZqN3hZ?oc=5
-
-@NepalPolicePHQ
-#NepalSociety #Nepal #नेपाल 🇳🇵
 
 ────────────────────────────────────────────────────────────────
