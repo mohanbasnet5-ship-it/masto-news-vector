@@ -1,6 +1,6 @@
 READY TO POST — NepalPulse
-Updated: 2026-06-02 05:52 NPT
-6 articles ready
+Updated: 2026-06-03 06:01 NPT
+8 articles ready
 ════════════════════════════════════════════════════════════════
 
 Copy any post below and paste into Facebook.
@@ -8,70 +8,17 @@ After posting, run: python3 nepalpulse/mark_posted.py <number>
 
 ════════════════════════════════════════════════════════════════
 
-── POST 1  |  The Sentinel Assam  |  Jun 01 08:16 NPT
+── POST 2  |  Morung Express  |  Jun 02 18:55 NPT
 
-PM Shah Commits to Resolving India Border Dispute Through Dialogue
+No role for any third party in bilateral matter: India on Nepal PM's boundary issue remarks
 
-Prime Minister Balendra Shah told Parliament on Sunday that Nepal will settle its long-disputed border with India through negotiation and diplomacy, not unilateral claims. The commitment matters because Kathmandu and Delhi have clashed over three territories—Lipulekh, Limpiyadhura, and Kalapani—since Nepal's 2020 map revision, with India rejecting those claims as historically baseless. This matters because ordinary Nepalis in border districts like Darchula face uncertainty over land rights, trade routes, and which nation controls access to pilgrimage sites like Kailash Manasarovar, while families in Kathmandu worry how prolonged tension could affect jobs and cross-border commerce.
-
-प्रधानमन्त्री बलेन्द्र शाहले आइतवार संसदमा नेपालले भारतसँगको विवादास्पद सीमा समस्या एकतर्फी दावीको सट्टा वार्ता र कूटनीतिमार्फत समाधान गर्नेछ भन्ने प्रतिबद्धता जनाएका छन्। नेपालले २०२० मा संशोधित गरेको नक्साअनुसार लिपुलेख, लिम्पियाधुरा र कालापानी गरी तीन क्षेत्रको दावी गरेपछि भारतले ती दावीलाई ऐतिहासिक रूपमा आधारहीन भनी अस्वीकार गरेको छ। दार्चुला जस्ता सीमाबर्तী जिल्लामा बस्ने आम नेपालीले जमिनको अधिकार, व्यापार मार्ग र कैलाश मानसरोवर जस्ता तीर्थस्थलमा कुन देशको नियन्त्रण हुनेछ भन्नेबारेमा अनिश्चितता सहन गर्दैछन्।
+New Delhi, June 2 (IANS) India on Tuesday firmly responded to Nepal Prime Minister Balendra Shah's remarks on boundary issues and stressed that there is "no role for any third party" on matters related to two nations.
 
 यस घटनाले नेपालको राजनीतिमा के प्रभाव पार्छ जस्तो लाग्छ? 💬
 
-https://www.sentinelassam.com/topheadlines/border-issue-with-india-will-be-resolved-through-talks-nepal-pm
-
-@OPMCMNP
-#NepalPolitics #Nepal #नेपाल 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 2  |  Nepal Economy & Remittance (Google News)  |  Jun 02 05:33 NPT
-
-पश्चिम सेती ४०० किलोभोल्ट लाइनमा सरकारले निजी साझेदारी अपनायो
-
-नेपाल सरकारले पश्चिम सेती ४०० किलोभोल्ट प्रसारण लाइन निर्माणका लागि सार्वजनिक-निजी साझेदारी मडेल अपनाएको छ। सरकारले सीधा लगानीको सट्टा यो अवसर निजी विकासकर्मालाई दिएको हो। ऊर्जा क्षेत्रमा नेपालका अन्य PPP परियोजना जस्तै काठमाडौँ-हेटौँडा ४०० किलोभोल्ट लाइन विलम्ब र खर्च बढ्नको समस्यामा परेका छन्। सरकारको रोकडको अभाव र ग्रिड क्षमता बढाउने जरुरतको बीचमा यो कदम निजी दक्षताको भरमा छ।
-
-—
-
-Nepal taps private partners to build 400 kV West Seti power line
-
-Nepal will construct the 400 kV West Seti transmission line using a public-private partnership model instead of direct government investment, shifting infrastructure risk to private developers. PPP projects in Nepal's energy sector have faced delays and cost overruns, most recently with the Kathmandu-Hetauda 400 kV line. This move signals the government's cash constraints while betting on private efficiency to deliver electricity capacity the grid urgently needs as demand rises.
-
-https://news.google.com/rss/articles/CBMiUEFVX3lxTFBacjBKZENVQXpBeFhBc2wxNlZXb3BRc1ZWcVRGX0tBa2RmajNEUlJMbnlQM0M0dy1WZWp1Y25haTZleHNyeVEzVGI1QTVfbjJU?oc=5
-
-#NepalBreaking #NepalPulse 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 5  |  Times of India  |  Jun 01 13:48 NPT
-
-प्रधानमन्त्री शाहले संसदमा उठाए काठमाडौंको सीमा विवाद
-
-प्रधानमन्त्री बलेन्द्र शाहले संसदलाई भनेका छन् कि नेपालले भारतलाई लिपुलेख, कालापानी र लिम्पियाढुरामा भेदमूलक अतिक्रमणको औपचारिक सूचना दिएको छ। सन् १८१६ को सन्धि कालीनदीको सुरुवातलाई स्पष्ट गरेको छैन किनभने नेपाल दावी गर्छ कि नदीको स्रोत लिम्पियाढुरामा छ तर भारत कालापानी नजिकै रहेको बताउँछ। दुवै देशले इतिहासविद् र राजनयिकहरूका माध्यमबाट यो समस्या समाधान गर्ने सहमति गरेका छन्। यो महत्त्वपूर्ण छ किनभने यदि नेपाल यो राजनयिक प्रयासमा सफल भयो भने चिनको सीमानजिकको यो रणनीतिक क्षेत्रमाथि नियन्त्रण परिवर्तन हुन सक्छ र यससँग सीमावर्ती समुदायका लागि घाँस चर्ने अधिकार, सैन्य स्थिति तथा स्रोत उपयोग प्रभावित हुन सक्छ।
-
-—
-
-Nepal PM Reignites Border Fight: Kalapani, Lipulekh Dispute Back on Table
-
-Prime Minister Balendra Shah told Parliament that Nepal has formally notified India of territorial encroachments in Lipulekh, Kalapani, and Limpiyadhura—a decades-old dispute rooted in an 1816 treaty that never clearly defined where the Kali River begins. Nepal argues the river's source sits at Limpiyadhura, placing the disputed Himalayan region inside Nepal; India claims it starts near Kalapani, on their side. Both nations agreed to resolve this through historians and diplomats, but Shah's public statement forced Nepal's foreign ministry to clarify it was not a formal territorial claim. This matters because if Nepal succeeds in this diplomatic push, control of this strategically vital tri-border zone near China could shift, affecting grazing rights, military positioning, and resource access for herders and border communities who live in the shadow of this dispute.
-
-https://timesofindia.indiatimes.com/india/nepal-pm-balendra-shahs-encroaching-india-remark-sparks-row-what-is-the-border-dispute-about/articleshow/131437565.cms
+https://morungexpress.com/no-role-for-any-third-party-in-bilateral-matter-india-on-nepal-pms-boundary-issue-remarks
 
 @MOFANEPAL @IndiaInNepal
-#NepalIndia #NepalPulse 🇳🇵
-
-────────────────────────────────────────────────────────────────
-
-── POST 6  |  Times of India  |  Jun 01 05:56 NPT
-
-Both Nations Encroaching on Each Other, PM Shah Tells Parliament
-
-Nepal PM Balendra Shah acknowledged Sunday that India and Nepal have both crossed into each other's territory, breaking new ground in public statements on the border dispute. Shah told Parliament that both governments agreed to form teams of historians, surveyors and experts to resolve the decades-old conflict through talks, and that he has already discussed the matter with India, China and the UK. The dispute has simmered since May when Nepal objected to India resuming the Kailash Mansarovar pilgrimage through the Lipulekh Pass that Kathmandu claims.
-
-प्रधानमन्त्री बलेन्द्र शाहले आइतवार संसदमा भारत र नेपाल दुवै देशले एकअर्काको भूमिमा प्रवेश गरेको कुरा स्वीकार गरे। सीमा विवाद समाधानका लागि दुवै सरकारले इतिहासविद्, सर्वेक्षक र विशेषज्ञको टोली बनाउन सहमति जनाएका छन्। शाहले यस विषयमा भारत, चिनियाँ र बेलायतसँग पहिले नै छलफल गरिसकेको जनाए।
-
-https://timesofindia.indiatimes.com/world/south-asia/nepal-india-encroaching-on-each-others-land-uk-must-step-in-pm-balen-shah/articleshow/131431456.cms
-
-#NepalBreaking #NepalNews #Nepal 🇳🇵
+#NepalIndia #NepalNews #Nepal 🇳🇵
 
 ────────────────────────────────────────────────────────────────
