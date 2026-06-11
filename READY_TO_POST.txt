@@ -1,4 +1,22 @@
 READY TO POST — NepalPulse
-Updated: 2026-06-04 11:45 NPT
+Updated: 2026-06-11 06:01 NPT
+8 articles ready
+════════════════════════════════════════════════════════════════
 
-No fresh articles in queue right now.
+Copy any post below and paste into Facebook.
+After posting, run: python3 nepalpulse/mark_posted.py <number>
+
+════════════════════════════════════════════════════════════════
+
+── POST 7  |  Nepal Economy & Remittance (Google News)  |  Jun 10 19:40 NPT
+
+Pokhara‑Dubai Direct Flights Launch Transforming Nepal Tourism, Connecting Middle East, Europe, and Global Travellers to Himalayan Destinations, Boosting International Access, Adventure Tourism, and Economic Growth - Travel And Tour World
+
+Pokhara‑Dubai Direct Flights Launch Transforming Nepal Tourism, Connecting Middle East, Europe, and Global Travellers to Himalayan Destinations, Boosting International Access, Adventure Tourism, and Economic Growth    Travel And Tour World
+
+https://news.google.com/rss/articles/CBMibkFVX3lxTFBwY2NvZ0hqaW1aeUNLSGJfa0JWNS1fN0xvQmZfYWItc0IxdG9BaHg5cWsyVnBuZndFbHg0U0NqeVA4QzJhTmo5LWNaNmIyVnJtN0xyN0R4T2JfaVF4eUpiWGY1dzZBYy1FT3I3TTRR?oc=5
+
+@NRB.CentralBank
+#NepalEconomy #Nepal 🇳🇵
+
+────────────────────────────────────────────────────────────────
