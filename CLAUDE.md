@@ -17,6 +17,18 @@ Authoritative guide for Claude Code. The file at `nepalpulse/CLAUDE.md` is stale
 
 **Project management:** All active initiatives live in [PROJECTS.md](PROJECTS.md). Run `python3 pm.py` (or double-click `pm.command`) for a status dashboard. Read PROJECTS.md at the start of any session to know current priorities before suggesting work. Tracks: A (System), B (Content), C (Community), D (Owned Audience), E (Citizen Services & Government Data), F (Card System & Visual Formats).
 
+## Development workflow
+
+All code lives in `nepalpulse/`. After making changes:
+
+1. **Syntax check** — `cd nepalpulse && python3 -m py_compile <changed_files>`
+2. **Test with dev.py** — `cd nepalpulse && python3 dev.py <subcommand>` (does not touch the running daemon)
+3. **Run tests** — `cd nepalpulse && python3 -m pytest` (or specific test file)
+4. **Log the change** — add an entry to [PENDING_RESTART.md](PENDING_RESTART.md) with the change description and affected files. This is the ledger `restart.py` uses to track what's waiting to go live.
+5. **Deploy** — `python3 restart.py` (off-peak only, 23:00–06:00 NPT). Runs 3 safety checks, restarts the daemon, and promotes `[p]→[x]` in PROJECTS.md.
+
+Code changes take effect only after a daemon restart. The daemon is a long-running process — editing files on disk does not affect the running instance.
+
 ---
 
 ## Repository Layout
