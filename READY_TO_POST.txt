@@ -1,5 +1,5 @@
 READY TO POST — NepalPulse
-Updated: 2026-07-11 01:00 NPT
+Updated: 2026-07-12 02:44 NPT
 8 articles ready
 ════════════════════════════════════════════════════════════════
 
@@ -8,14 +8,4 @@ After posting, run: python3 nepalpulse/mark_posted.py <number>
 
 ════════════════════════════════════════════════════════════════
 
-── POST 8  |  Nepal Economy & Remittance (Google News)  |  Jul 10 14:33 NPT
 
-Nepal Welcomes India, China, Bhutan and Bangladesh as Shuklaphanta National Park Highlights Untapped Wildlife Tourism Potential, Creating New Opportunities for Airlines, Tour Operators and Sustainable Travel Investment - Travel And Tour World
-
-Nepal Welcomes India, China, Bhutan and Bangladesh as Shuklaphanta National Park Highlights Untapped Wildlife Tourism Potential, Creating New Opportunities for Airlines, Tour Operators and Sustainable Travel Investment    Travel And Tour World
-
-https://news.google.com/rss/articles/CBMibkFVX3lxTE5sSHgyQzM2dklLbEpiZUFtdzZ0M0xSc0VNbzAwcGszYVYtUHdSWC1sMXNDR0N3MlhKYjJfU3BwaGQxTi1tZWVWLUY5SFZKNUZOS3pUVjExN1JmMGs1TUtWLVZ2Rlh5TXhjb3E2MVRn?oc=5
-
-#NepalBreaking #Nepal 🇳🇵
-
-────────────────────────────────────────────────────────────────
