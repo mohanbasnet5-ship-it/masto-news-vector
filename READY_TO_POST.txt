@@ -1,11 +1,4 @@
 READY TO POST — NepalPulse
-Updated: 2026-07-12 16:21 NPT
-4 articles ready
-════════════════════════════════════════════════════════════════
+Updated: 2026-07-13 11:47 NPT
 
-Copy any post below and paste into Facebook.
-After posting, run: python3 nepalpulse/mark_posted.py <number>
-
-════════════════════════════════════════════════════════════════
-
-
+No fresh articles in queue right now.
