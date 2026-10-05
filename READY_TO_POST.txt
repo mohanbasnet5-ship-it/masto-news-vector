@@ -1,5 +1,5 @@
 READY TO POST — NepalPulse
-Updated: 2026-10-04 05:52 NPT
+Updated: 2026-10-05 04:51 NPT
 8 articles ready
 ════════════════════════════════════════════════════════════════
 
@@ -8,4 +8,14 @@ After posting, run: python3 nepalpulse/mark_posted.py <number>
 
 ════════════════════════════════════════════════════════════════
 
+── POST 8  |  Onlinekhabar English  |  Oct 04 11:00 NPT
 
+Nepal must put agrobiodiversity at the centre of regenerative agriculture
+
+Nepal’s agricultural future may depend on something it already has in abundance — diversity. Across the country’s mountains, hills and plains, farmers have cultivated crops and raised livestock adapted to very different climates, soils and landscapes. Over generations, they have selected seeds, developed farming practices and preserved knowledge suited to the places where they live.
+
+https://english.onlinekhabar.com/agrobiodiversity-regenerative-agriculture.html
+
+#NepalBreaking #Nepal 🇳🇵
+
+────────────────────────────────────────────────────────────────
