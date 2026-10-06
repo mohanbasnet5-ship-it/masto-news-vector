@@ -1,5 +1,5 @@
 READY TO POST — NepalPulse
-Updated: 2026-10-05 04:51 NPT
+Updated: 2026-10-05 19:18 NPT
 8 articles ready
 ════════════════════════════════════════════════════════════════
 
@@ -8,14 +8,15 @@ After posting, run: python3 nepalpulse/mark_posted.py <number>
 
 ════════════════════════════════════════════════════════════════
 
-── POST 8  |  Onlinekhabar English  |  Oct 04 11:00 NPT
+── POST 2  |  Himal Southasian  |  Oct 05 18:27 NPT
 
-Nepal must put agrobiodiversity at the centre of regenerative agriculture
+Why land reform has failed in Nepal’s Tarai
 
-Nepal’s agricultural future may depend on something it already has in abundance — diversity. Across the country’s mountains, hills and plains, farmers have cultivated crops and raised livestock adapted to very different climates, soils and landscapes. Over generations, they have selected seeds, developed farming practices and preserved knowledge suited to the places where they live.
+Fraser Sugden’s ‘Land, Labour and Agrarian Change in Nepal’s Tarai-Madhesh’ explains why decades of political upheaval have failed to break the hold of landlordism and poverty in Nepal’s southern plains
 
-https://english.onlinekhabar.com/agrobiodiversity-regenerative-agriculture.html
+https://www.himalmag.com/land-reform-nepal-tarai-madhesh/
 
-#NepalBreaking #Nepal 🇳🇵
+@OPMCMNP
+#NepalGlobal #NepalNews #Nepal 🇳🇵
 
 ────────────────────────────────────────────────────────────────
