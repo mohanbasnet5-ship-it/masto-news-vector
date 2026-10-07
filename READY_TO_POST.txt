@@ -1,5 +1,5 @@
 READY TO POST — NepalPulse
-Updated: 2026-10-05 19:18 NPT
+Updated: 2026-10-07 05:32 NPT
 8 articles ready
 ════════════════════════════════════════════════════════════════
 
@@ -8,15 +8,4 @@ After posting, run: python3 nepalpulse/mark_posted.py <number>
 
 ════════════════════════════════════════════════════════════════
 
-── POST 2  |  Himal Southasian  |  Oct 05 18:27 NPT
 
-Why land reform has failed in Nepal’s Tarai
-
-Fraser Sugden’s ‘Land, Labour and Agrarian Change in Nepal’s Tarai-Madhesh’ explains why decades of political upheaval have failed to break the hold of landlordism and poverty in Nepal’s southern plains
-
-https://www.himalmag.com/land-reform-nepal-tarai-madhesh/
-
-@OPMCMNP
-#NepalGlobal #NepalNews #Nepal 🇳🇵
-
-────────────────────────────────────────────────────────────────
