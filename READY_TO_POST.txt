@@ -1,6 +1,6 @@
 READY TO POST — NepalPulse
-Updated: 2026-10-22 20:20 NPT
-3 articles ready
+Updated: 2026-10-26 03:44 NPT
+8 articles ready
 ════════════════════════════════════════════════════════════════
 
 Copy any post below and paste into Facebook.
@@ -8,4 +8,14 @@ After posting, run: python3 nepalpulse/mark_posted.py <number>
 
 ════════════════════════════════════════════════════════════════
 
+── POST 6  |  Onlinekhabar English  |  Oct 25 13:27 NPT
 
+Security situation in Kathmandu Valley remains normal during Dashain
+
+Kathmandu, October 25 The security situation in the Kathmandu Valley remained normal during the Dashain festival. Except for minor and isolated incidents, no major crimes were reported in the valley, according to the Kathmandu Valley Police Office in Ranipokhari.
+
+https://english.onlinekhabar.com/security-situation-in-kathmandu-valley-remains-normal-during-dashain.html
+
+#NepalBreaking #Nepal 🇳🇵
+
+────────────────────────────────────────────────────────────────
