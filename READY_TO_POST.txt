@@ -1,5 +1,5 @@
 READY TO POST — NepalPulse
-Updated: 2026-10-28 02:25 NPT
+Updated: 2026-10-29 00:39 NPT
 8 articles ready
 ════════════════════════════════════════════════════════════════
 
@@ -8,15 +8,4 @@ After posting, run: python3 nepalpulse/mark_posted.py <number>
 
 ════════════════════════════════════════════════════════════════
 
-── POST 8  |  Onlinekhabar English  |  Oct 27 20:54 NPT
 
-NPL 3: Karnali Yaks begin campaign with victory over Janakpur Bolts
-
-Kathmandu, October 27 Karnali Yaks began their Nepal Premier League (NPL) Season 3 campaign with a victory, defeating Janakpur Bolts after bowling them out for 113 runs while chasing a target of 133 at the Tribhuvan University Cricket Ground. Janakpur, chasing 133 for victory, were all out for 113 in 19.
-
-https://english.onlinekhabar.com/npl-3-karnali-yaks-begin-campaign-with-victory-over-janakpur-bolts.html
-
-@OPMCMNP @kathmandumetropolitan
-#NepalGlobal #Nepal #नेपाल 🇳🇵
-
-────────────────────────────────────────────────────────────────
